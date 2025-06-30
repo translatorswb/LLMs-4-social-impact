@@ -1,0 +1,108 @@
+id,prompt,answer
+1,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: I have been applying different pesticides to control pests on my farm. However, they seem not to be effective, what can I do?","Namaste. This is a common problem, and it often means the pests have become resistant to the pesticides you're using, especially if you use the same type repeatedly.
+
+First, make sure you are correctly identifying the pest, as different pests need different treatments. Try rotating pesticides with *different chemical groups* or modes of action; don't just switch brand names if the active chemical is the same. Always follow the label for the correct dosage and timing, and ensure thorough spray coverage, especially under the leaves. Also, check that your pesticide is genuine and not expired. Consider other methods like cultural practices or biological controls as part of an Integrated Pest Management (IPM) approach. For specific guidance, please bring a sample of the pest and affected plant to your local Krishi Vikas Kendra or agricultural officer."
+2,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: I have been losing my crops and livestock due to drought and floods. What can I do to get compensation during such occurrences?","Losing your crops and livestock to extreme weather is very difficult.
+If your crops are insured under Pradhan Mantri Fasal Bima Yojana (PMFBY), you must inform your bank or insurance company within 72 hours of the loss. They will then assess the damage for compensation.
+For livestock losses, check if you have taken any livestock insurance and report the loss to the insurer as per their terms.
+In cases of widespread drought or floods, the government may also announce relief through disaster response funds like the SDRF or NDRF.
+You should immediately report your specific losses, with details, to your local Village Revenue Officer (Patwari/Lekhpal) or the Agriculture Department office.
+They can guide you on available government schemes and the necessary paperwork for claiming compensation.
+Keep any photographs or records of the damage as proof, if possible.
+Acting quickly after the event is very important to access these benefits."
+3,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: I am interested in learning about crops and livestock production. Where can I visit to learn more about crops and livestock production?","Namaste! That's a great question, it's always good to keep learning.
+
+A very good place to start is your local **Krishi Vigyan Kendra (KVK)**; every district usually has one. They have experts for both crops and livestock and often have demonstration plots where you can see new varieties and techniques. You can also visit the nearest **State Agricultural University**; many have research farms and conduct training programs you might find useful. Don't forget to look for successful, progressive farmers in your own area or nearby villages. Seeing their farms and talking to them can teach you a lot about what works locally. Sometimes, the **Department of Agriculture or Animal Husbandry** also organises exposure visits or field days. These visits will help you see improved practices and breeds firsthand. Ask at these places about any upcoming training sessions or farmer field days."
+4,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: Which bean variety is suitable for dryland agro-ecological zone?","Namaste! For dryland areas, several hardy bean types perform well.
+
+Consider **cowpea** (lobia or chawli), as many varieties are drought-tolerant and quick-maturing. **Moth bean** (matki) is exceptionally hardy and thrives in arid conditions with minimal water. **Horse gram** (kulthi) is another excellent choice, well-adapted to poor soils and dry spells. Some improved varieties of **pigeon pea** (arhar or tur) also show good drought resistance due to their deep root systems. These crops generally require less water than common beans like rajma. They can also help improve your soil fertility. Always check with your local Krishi Vigyan Kendra (KVK) or agricultural university for specific varieties best suited to your particular area, as they will have the latest recommendations. Good luck with your planting!"
+5,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: If I am unable to acquire certified maize seeds, which variety can I save and replant the next season?","Namaste! If you cannot find certified seeds, you can save seeds from **open-pollinated varieties (OPVs)** of maize. These are often called 'desi' or 'sudhari hui kism' (improved local varieties).
+
+**Do not save seeds from hybrid (sankara beej) maize.** Replanting hybrid seeds will result in significantly lower and uneven yields next season because their good qualities are lost.
+
+If you have an OPV, select cobs from healthy, strong plants in the middle of your field before the main harvest. Choose well-filled, disease-free cobs. Dry these cobs thoroughly in the sun. Store the dried seeds in a cool, dry place, safe from insects and rats, until the next planting season. Always try to get certified seeds when available, as they generally provide better performance. Ask your local agricultural office if they know good OPVs for your area."
+6,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: Are chemical pesticides important and safe in crop and livestock production?","Namaste! Chemical pesticides can be very helpful to protect your crops from insects, diseases, and weeds, which can otherwise cause big losses. For your animals, they can control dangerous ticks, lice, and other parasites that make them sick. So yes, they are important tools for increasing your harvest and keeping livestock healthy.
+
+However, safety is a very big concern. They are safe *only* if you use them exactly as the label says – the right amount, at the right time, and with proper safety gear like gloves and masks. Always respect the waiting period before harvesting food or using animal products after application. Misuse can harm you, your family, beneficial insects, and the environment. It's best to use them as part of an Integrated Pest Management (IPM) plan, only when truly necessary. Always seek advice from your local agricultural office if you are unsure."
+7,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: How can I know that my soil is fertile?","Namaste! Healthy crops with good yields are often the first sign of fertile soil.
+
+Look closely at your soil: fertile soil is usually dark in colour, crumbly when you hold it, and has an earthy smell. It should hold water well but also allow excess water to drain, so it doesn't become waterlogged or dry out too quickly. You might also see earthworms and other small creatures, which are good indicators of healthy, living soil.
+
+However, the most accurate way to know your soil's fertility and what nutrients it might need is to get a soil test done. Your local Krishi Vigyan Kendra (KVK) or agricultural office can help you with this. This test will tell you exactly what nutrients are present and what might be missing for your specific crops. Adding organic matter like compost or farmyard manure regularly also helps build fertility."
+8,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: How can I best control weeds in my farm?","Namaste! Controlling weeds is very important for a good harvest.
+1.  Start by preparing your field well before planting, removing all existing weeds.
+2.  Use clean, certified seeds to avoid introducing new weed seeds.
+3.  Planting your crop at the right time and with good spacing helps it compete better with weeds.
+4.  Regular hand-weeding or hoeing, especially when weeds are small (2-3 weeks after planting), is very effective.
+5.  Mulching with straw, dry leaves, or plastic sheets can also suppress weed growth and save water.
+6.  Consider intercropping with cover crops that can smother weeds.
+7.  If weeds are still a big problem, you can consider using a suitable herbicide, but always follow label instructions carefully for safety and effectiveness.
+8.  Rotating your crops each season can also help break weed cycles.
+9.  Remember, combining a few of these methods – what we call Integrated Weed Management – usually works best.
+10. Consistent effort in managing weeds early will save you a lot of trouble later."
+9,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: How do organic and synthetic/inorganic fertilizers compare in terms of effectiveness to crop production, and which one would be more suitable for different farming conditions?","Namaste! Both organic and synthetic fertilizers help your crops grow, but they work differently.
+Synthetic fertilizers, like urea or DAP, provide nutrients quickly, giving a fast boost to plant growth. They are good if your soil is very low in a specific nutrient or if your crop needs an immediate feed.
+Organic fertilizers, such as farmyard manure or compost, release nutrients slowly as they improve your soil structure and health. This long-term benefit helps your soil hold more water and supports beneficial soil life.
+For poor soils, starting with organic matter is crucial for building fertility. If you need a rapid correction for a nutrient deficiency, synthetic fertilizers offer a quicker response.
+Often, the best approach is to combine both: use organic matter to build your soil and supplement with synthetic fertilizers based on crop needs. For example, in sandy soils that don't hold nutrients well, organic matter is very important. In heavy clay soils, organic matter also helps with drainage and aeration. A soil test can guide you in making the most effective decision for your specific farm."
+10,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: Lately, the onset of rains has shown significant variability from season to season. This has affected our ability to judge when to plant. In this scenario, when is the best time to plant?","Namaste. This is a common challenge many farmers are facing now.
+
+With these unreliable rains, the key is to ensure there's enough moisture in the soil *before* you sow. Don't rush to plant with the very first light shower, as it might be a 'false start' and your seeds could dry out. Wait until you've had at least two to three good, soaking rains. Check the soil yourself: dig a small hole; it should be moist at least up to your fist's depth (about 10-15 cm). This moisture gives your seeds the best chance to germinate well and survive until the next rain. Some farmers also try planting a portion of their land a little later than the first ideal window to spread the risk. Observing local weather patterns and your soil condition carefully is more important than ever."
+11,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: What are the signs of nutrient deficiency in maize and how can they be corrected?","Namaste! If your maize leaves are turning yellow, especially older ones starting from the tip and moving down the middle in a V-shape, it's likely a Nitrogen (N) shortage. Purplish leaves, particularly on young plants or the undersides of older leaves, often mean a Phosphorus (P) deficiency. If the edges of older leaves turn yellow or brown and look burnt, that signals a Potassium (K) deficiency. Stunted growth can also be a general sign.
+
+To correct these, applying well-rotted farmyard manure (FYM) or compost before planting is very good for overall soil health. For specific deficiencies, you can top-dress with urea for Nitrogen after confirming the need. If you suspect P or K issues, using fertilizers like DAP (for P) or Muriate of Potash (for K) at planting or as a side-dressing can help. A balanced NPK fertilizer can also be beneficial. Getting your soil tested is the best way to know exactly what your field needs for the next season."
+12,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: How can I mitigate post-harvest losses in crops and livestock?","Namaste! Preventing losses after harvest is very important for your hard work.
+
+For your crops, always harvest them at the correct maturity. Handle them gently during harvesting and transport to avoid damage. Dry your grains and pulses thoroughly before storing them in clean, dry, and pest-proof containers or bags. Good ventilation in your storage area also helps. Using traditional methods like neem leaves or modern solutions like hermetic bags can protect stored grains.
+
+For livestock, ensure clean housing and prompt, hygienic collection of products like milk or eggs. Cool milk quickly if possible, and handle eggs carefully to prevent breakage. If you process meat, do so cleanly and consume or sell it quickly, or use proper preservation methods. Regular checks on stored produce and animals can help catch problems early."
+13,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: What are some of the strategies that I can employ to manage climate change in crop production?","Namaste! Climate change brings unpredictable weather, so we must adapt.
+
+Firstly, focus on saving every drop of water. You can do this by harvesting rainwater in small ponds or tanks and using efficient irrigation methods like drip or sprinklers where possible. Improving your soil health by adding plenty of organic manure and compost will also help it hold water much better. Consider planting drought-tolerant crop varieties or local landraces that are known to withstand harsh conditions. Diversifying your crops by practicing intercropping or mixed cropping can reduce the risk if one crop fails due to weather. Adjusting your planting and harvesting times based on weather forecasts can also be very helpful. Finally, using mulch like straw or crop residues can conserve soil moisture and reduce heat stress on your plants. These steps can build your farm's resilience."
+14,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: What are the best disease management practices in livestock production?","Namaste! To keep your animals healthy and prevent diseases, good management is key.
+
+1.  Always keep their living areas (sheds) clean, dry, and well-ventilated.
+2.  Provide them with good quality feed and fresh, clean water daily.
+3.  Vaccinate your animals regularly against common diseases, as advised by your local vet.
+4.  When you buy new animals, keep them separate (quarantine) for a few weeks before mixing them with your main herd.
+5.  Watch your animals closely every day for any signs of sickness, like not eating or appearing dull.
+6.  If an animal seems sick, separate it immediately from the healthy ones to prevent spread.
+7.  Consult a veterinary doctor quickly if you notice any health problems or unusual behaviour.
+8.  Control pests like flies, ticks, and rats, as they can spread diseases.
+9.  Ensure proper disposal of animal waste and any dead animals.
+10. Don't allow visitors to freely walk through your animal areas without taking precautions.
+
+Following these steps will greatly help in keeping your livestock healthy and productive."
+15,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: How are Farmer groups, Farmer Producer Organizations, Community Based Organizations and cooperatives important to farmers?","Namaste! These groups – Farmer Groups, Farmer Producer Organizations (FPOs), Community Based Organizations (CBOs), and Cooperatives – are very beneficial for you.
+
+When you join, you get stronger bargaining power. This means you can buy inputs like seeds and fertilizers at lower costs because you buy in bulk. You can also sell your produce together for better prices in the market. These groups help you access new farming knowledge, training, and even credit more easily. It's also simpler to get modern machinery or better storage facilities through them. They can connect you to larger markets you might not reach alone. Working together also gives you a stronger voice to address your common needs and challenges. Ultimately, they help improve your income and make farming more secure and profitable for you and your community."

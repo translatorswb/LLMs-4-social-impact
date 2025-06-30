@@ -1,0 +1,323 @@
+question_id,prompt,answer,correct_answer
+1,"You provide smallholder farmers in Kenya with agricultural advice and information. For the following multiple choice question, please select the correct answer(s) from options A to E and provide a detailed rationale for your choice. There can be multiple correct answers.
+
+Question: How do I, in the shortest duration and cost effectively correct for nutrient deficiency in my farm?
+
+Answer options:
+A. Test soil for nutrient deficiency or perform visual observations of the crop to diagnose the deficiency; get the right source of fertilizer to replenish the deficiency; apply the right rate of the fertilizer that would sufficiently correct the deficiency; apply the fertilizer at the right stage of the crop to maximize uptake and use…remember to apply when soil is moist; place the fertilizer close to the plant root zone but not too close to avoid scotching
+B. Test soil for nutrient deficiency or perform visual observations of the crop to diagnose the deficiency; apply well rotten manure; apply the right rate of the manure that would sufficiently correct the deficiency; apply the manure at the right stage of the crop to maximize uptake and use…remember to apply when soil is moist; place the manure close to the plant root zone but not too close to avoid scotching
+C. Apply fertilizer at the right rate, and the right stage of the crop; place the fertilizer close to the root system
+
+Your response must follow this format exactly:
+
+Correct answer: [OPTION(S)]
+
+Rationale: [Not longer than 10 sentences]","Correct answer: [A, B]
+
+Rationale:
+Option A describes the most technically sound and rapid method using fertilizers. Diagnosing the deficiency (soil test or visual), selecting the right fertilizer source, and applying it using the 4R principles (Right Rate, Right Time, Right Place, including moist soil and proper placement) ensures nutrients are quickly available to the crop, leading to correction in the shortest duration and cost-effectively by maximizing nutrient use efficiency and minimizing waste.
+
+Option B offers a viable and cost-effective alternative, particularly for smallholder farmers who may have ready access to well-rotted manure at little to no cash cost. While manure releases nutrients more slowly than mineral fertilizers (so it may not be the absolute ""shortest duration"" compared to A), following the principles of diagnosis, applying the right rate at the right time and place will effectively correct deficiencies over time and improve long-term soil health. For farmers with limited access to cash for fertilizers, this is a practical and cost-effective approach.",A
+2,"You provide smallholder farmers in Kenya with agricultural advice and information. For the following multiple choice question, please select the correct answer(s) from options A to E and provide a detailed rationale for your choice. There can be multiple correct answers.
+
+Question: How do I implement integrated pest management (IPM) on a farm?
+
+Answer options:
+A. Plant early and with the right seeds to ensure healthy and vigorous crops, continuously monitor pest populations, in case of infestation surpassing the threshold level, start by applying cultural methods, integrate biological and physical options before resulting to chemical control, evaluate control methods, and adjust strategies.
+B. Monitor pest populations, use biological control methods, and apply chemical control as a last resort.
+C. Evaluate control methods, apply biological controls, and monitor pest populations.
+D. Apply chemical control when needed, monitor pest populations, evaluate control methods, and adjust strategies.
+
+Your response must follow this format exactly:
+
+Correct answer: [OPTION(S)]
+
+Rationale: [Not longer than 10 sentences]","Correct answer: [A, B]
+
+Rationale: Option A provides the most comprehensive and accurate description of how to implement Integrated Pest Management (IPM). It correctly outlines the sequential process: starting with preventative measures like healthy crop establishment and proper seed selection, followed by continuous monitoring of pest populations. It emphasizes using action thresholds to make decisions and prioritizes cultural, biological, and physical controls before resorting to chemical applications as a last measure. Finally, it includes the crucial steps of evaluating control effectiveness and adjusting strategies, reflecting the adaptive nature of IPM.
+
+Option B is also correct because it highlights several core actions fundamental to implementing IPM. Monitoring pest populations is the basis for informed decision-making. Utilizing biological control methods is a key non-chemical strategy. Crucially, applying chemical control only as a last resort is a central tenet of IPM, aiming to minimize pesticide use and its associated risks. While not as exhaustive as option A, these steps represent a correct, albeit simplified, approach to IPM implementation, particularly regarding intervention choices. Options C and D are less accurate: C presents IPM components in an illogical implementation order, and D's phrasing ""apply chemical control when needed"" can be misconstrued as not strictly adhering to the IPM hierarchy of controls.",A
+3,"You provide smallholder farmers in Kenya with agricultural advice and information. For the following multiple choice question, please select the correct answer(s) from options A to E and provide a detailed rationale for your choice. There can be multiple correct answers.
+
+Question: How do I calibrate a knapsack sprayer to ensure accurate pesticide application?
+
+Answer options:
+A. Measure the sprayer output over a known time and area, calculate the required nozzle flow rate based on walking speed and spray width, adjust nozzle settings and pressure accordingly, and conduct a field test to confirm uniform and accurate application.
+B. Adjust the nozzle settings, measure the sprayer output, calculate the required nozzle flow rate, and conduct a field test.
+C. Conduct a field test, measure the sprayer output, calculate the required nozzle flow rate, and adjust the nozzle settings.
+D. Measure the sprayer output, conduct a field test, adjust the nozzle settings, and calculate the required nozzle flow rate.
+
+Your response must follow this format exactly:
+
+Correct answer: [OPTION(S)]
+
+Rationale: [Not longer than 10 sentences]","Correct answer: [A]
+
+Rationale: Option A outlines the most accurate and systematic procedure for calibrating a knapsack sprayer. It begins by determining the sprayer's current performance: **measuring its output (e.g., liters per minute) and the area it covers** (based on a consistent walking speed and the spray swath width). This allows calculation of the current application rate (e.g., liters per hectare). Next, the **required nozzle flow rate is calculated** based on the pesticide label's recommended application rate and the farmer's chosen walking speed and spray width. With the current and required rates known, **adjustments are made to the nozzle settings or pressure** to match the sprayer's output to the calculated requirement. Finally, a **field test on a small, measured area is crucial** to confirm that the sprayer is delivering the correct volume uniformly across the target area before commencing the full spraying operation. This comprehensive sequence ensures accurate pesticide application, which is vital for efficacy, cost-effectiveness, and environmental safety. The other options present a less logical or incomplete sequence of these essential calibration steps.",A
+4,"You provide smallholder farmers in Kenya with agricultural advice and information. For the following multiple choice question, please select the correct answer(s) from options A to E and provide a detailed rationale for your choice. There can be multiple correct answers.
+
+Question: What is the right procedure to harvest onions?
+
+Answer options:
+A. Harvest during the dry season, at about 90-150 after planting depending on the variety. The crop must be mature by observing that the tops have started to yellow or droop, and the bulbs will have formed shing membranous cover around them. To harvest, loosen the soil around the plants to allow for easier removal. Pull the bulbs by hand or dig them up with garden fork. Once the bulbs are out of the ground, cut the tops back to about one inch. Clean the bulbs and let them dry in the sun to cure (dry out) before storing. If long storage is intended, cure the bulbs in a well-ventilated store by spreading on racks until the necks and outer scale leaves of the bulbs are thoroughly dried.
+B. Harvest during the wet season, at about 90-150 after planting depending on the variety. The crop must be mature by observing that the tops have started to yellow or droop, and the bulbs will have formed shing membranous cover around them. To harvest, loosen the soil around the plants to allow for easier removal. Pull the bulbs by hand or dig them up with garden fork. Once the bulbs are out of the ground, cut the tops back to about one inch. Clean the bulbs and let them dry in the sun to cure (dry out) before storing. If long storage is intended, cure the bulbs in a well-ventilated store by spreading on racks until the necks and outer scale leaves of the bulbs are thoroughly dried.
+C. Harvest at about 90-150 after planting depending on the variety. The crop must be mature by observing that the tops have started to yellow or droop, and the bulbs will have formed shing membranous cover around them. To harvest, loosen the soil around the plants to allow for easier removal. Pull the bulbs by hand or dig them up with garden fork. Clean the bulbs and let them dry in the sun to cure (dry out) before storing. If long storage is intended, cure the bulbs in a well-ventilated store by spreading on racks until the necks and outer scale leaves of the bulbs are thoroughly dried.
+D. Harvest during the dry season, at about 90-150 after planting depending on the variety. To harvest, loosen the soil around the plants to allow for easier removal. Pull the bulbs by hand or dig them up with garden fork. Once the bulbs are out of the ground, cut the tops back to about one inch. Clean the bulbs and let them dry in the sun to cure (dry out) before storing. If long storage is intended, cure the bulbs in a well-ventilated store by spreading on racks until the necks and outer scale leaves of the bulbs are thoroughly dried.
+
+Your response must follow this format exactly:
+
+Correct answer: [OPTION(S)]
+
+Rationale: [Not longer than 10 sentences]","Correct answer: [A, C]
+
+Rationale: Both options A and C describe key correct steps for harvesting onions. They correctly identify maturity indicators (tops yellowing or drooping, formation of a membranous bulb cover) and the typical harvest time (90-150 days post-planting). Both also recommend careful harvesting techniques and a crucial two-stage curing process: an initial drying period (sun curing), followed by extended curing in a well-ventilated store for long-term storage, aiming for thoroughly dried necks and outer scales.
+
+Option A outlines a more comprehensive and optimal procedure by specifying harvesting during the dry season, which is ideal for sun curing, and instructing to cut tops back to about one inch after harvest, promoting better neck drying and reducing storage rot.
+
+Option C, while omitting these explicit details, still presents a fundamentally correct approach. The instruction to ""dry in the sun to cure"" implies the necessity of dry weather conditions. Although it doesn't detail immediate top cutting, the stated goal of achieving thoroughly dried necks for long storage is critical and achievable if the curing process is managed effectively. Therefore, while A is more detailed and represents best practice, C also describes a viable and right procedure. Options B (harvesting in the wet season) and D (lacking maturity indicators) are incorrect as they describe practices detrimental to onion quality and storage.",A
+5,"You provide smallholder farmers in Kenya with agricultural advice and information. For the following multiple choice question, please select the correct answer(s) from options A to E and provide a detailed rationale for your choice. There can be multiple correct answers.
+
+Question: How should I wear PPE?
+
+Answer options:
+A. Put on overall/coveralls first, then gloves, mask, and finish with the face shield
+B. Put on the mask first, then gloves, overall/coveralls, and finish with the face shield.
+C. To ensure personal safety when handling pesticides in the store, transporting or when spraying, the applicator should put on the appropriate overall/coveralls first, then the gumboots, then a mask, followed by gloves, and lastly a face shield.
+D. Put on gloves, then a face shield, followed by overall/coveralls, and finally a mask.
+
+Your response must follow this format exactly:
+
+Correct answer: [OPTION(S)]
+
+Rationale: [Not longer than 10 sentences]","Correct answer: [C]
+
+Rationale: Option C describes the most appropriate and safest sequence for donning (putting on) Personal Protective Equipment (PPE), particularly crucial when handling pesticides. Starting with the overall/coveralls and then gumboots ensures that the body, legs, and feet are protected first. Next, the mask is put on to protect the respiratory system; it's important this is done before hands are gloved or become potentially contaminated. After the mask is securely fitted, gloves are worn, typically ensuring they go over the cuffs of the overall. Finally, the face shield is added to protect the eyes and face from splashes or spray drift. This systematic order helps to minimize the risk of self-contamination during the donning process, which is essential for personal safety. The other options suggest orders that could lead to contamination, such as putting on gloves before the mask or before the main body covering.",C
+6,"You provide smallholder farmers in Kenya with agricultural advice and information. For the following multiple choice question, please select the correct answer(s) from options A to E and provide a detailed rationale for your choice. There can be multiple correct answers.
+
+Question: How do I use animal waste management on a mixed crop-livestock farm?
+
+Answer options:
+A. Collect animal waste and dump it directly onto crop fields.
+B. Heap all the animal waste together then burn all the waste to dispose of it quickly and efficiently.
+C. Collect animal waste and any agricultural waste regularly, compost it for 3–4 months and keep turning it regularly, and then apply it to crops during land preparation.
+D. Store manure in open pits near water sources to allow it to decompose naturally.
+
+Your response must follow this format exactly:
+
+Correct answer: [OPTION(S)]
+
+Rationale: [Not longer than 10 sentences]","Correct answer: A, C
+
+Rationale: Both composting (Option C) and direct application (Option A) are methods to use animal waste on crop fields on a mixed farm. Option C, which involves collecting animal and agricultural waste, composting it for 3–4 months with regular turning, and then applying it during land preparation, is the most highly recommended method. This process creates a stable, nutrient-rich compost that improves soil structure, water retention, and fertility while significantly reducing pathogens and weed seeds. Option A, collecting animal waste and applying it directly to crop fields, can also add nutrients and organic matter. However, if using fresh manure, it should be applied with caution, ideally incorporated into the soil well before planting, to prevent burning young plants, spreading diseases, or introducing many weed seeds; aged manure is generally safer for direct application. Composting (Option C) is a more effective practice for maximizing nutrient benefits and minimizing risks. Burning waste (Option B) destroys valuable nutrients and organic matter. Storing manure in open pits near water sources (Option D) is dangerous as it leads to water pollution and nutrient loss.",C
+7,"You provide smallholder farmers in Kenya with agricultural advice and information. For the following multiple choice question, please select the correct answer(s) from options A to E and provide a detailed rationale for your choice. There can be multiple correct answers.
+
+Question: How do I determine the seed rate required for planting on a farm?
+
+Answer options:
+A. Calculate the field area, determine the crop variety, estimate the required seeds per hectare, and apply the seed rate.
+B. Determine the crop variety, calculate the field area, estimate the required seeds per hectare, and apply the seed rate.
+C. Estimate the required seeds per hectare, calculate the field area, determine the crop variety, and apply the seed rate.
+D. Calculate the field area, determine appropriate plant spacing for the selected crop variety, estimate the number of seeds needed per hectare based on spacing and germination rate, and apply the seed rate accordingly.
+
+Your response must follow this format exactly:
+
+Correct answer: [OPTION(S)]
+
+Rationale: [Not longer than 10 sentences]","Correct answer: [A, B, D]
+
+Rationale:
+Options A and B correctly outline essential initial steps: identifying the crop variety and measuring the field area, which are crucial prerequisites for determining total seed needs. Both then involve estimating the required seeds per hectare (the seed rate) before applying it to the farm. The order of calculating field area and determining crop variety (as in A versus B) can be flexible as both are needed before calculating total seeds. Option D provides a more detailed and agronomically sound method for determining this seed rate, by calculating it based on appropriate plant spacing for the selected crop variety and the seed's germination rate. This approach allows for precise calculation to achieve the desired plant population, accounting for seed viability. Therefore, A, B, and D all describe valid approaches to determining the seed rate. Option C is less optimal as the seed rate is highly dependent on the crop variety, which should ideally be determined before estimating a specific rate per hectare.",D
+8,"You provide smallholder farmers in Kenya with agricultural advice and information. For the following multiple choice question, please select the correct answer(s) from options A to E and provide a detailed rationale for your choice. There can be multiple correct answers.
+
+Question: Last year I experienced significant losses in my stored maize grain. How do I handle my grain to minimize these losses?
+
+Answer options:
+A. Harvest the crop when the leaves are dry. Thresh the grain either manually or mechanically but avoid seed breakage. Mix the grain with an insecticide (grain dust) at the recommended rate. Put the treated grain in gunny bags ready storage. Alternatively, you can put dry grain in hermetic without treating with insecticide. Clean the store, and dust it with insecticides before storing the bags. Ensure the store is well ventilated, and free from rodents, and stack the bags on pallets and in a way that ventilation is maximized.
+B. Harvest during the dry season, and importantly when maize is physiologically mature. Dry the harvested cobs under the until the moisture content is reduced to about 13%. You can estimate that the grain is dry by doing simple tests like salt test or biting test. Thresh the grain either manually or mechanically but avoid seed breakage. Mix the grain with an insecticide (grain dust) at the recommended rate. Put the treated grain in gunny bags ready storage. Alternatively, you can put dry grain in hermetic without treating with insecticide. Clean the store, and dust it with insecticides before storing the bags.
+C. Harvest during the dry season, and importantly when maize is physiologically mature. Thresh the grain either manually or mechanically but avoid seed breakage. Mix the grain with an insecticide (grain dust) at the recommended rate. Put the treated grain in gunny bags ready storage. Alternatively, you can put dry grain in hermetic without treating with insecticide. Clean the store, and dust it with insecticides before storing the bags. Ensure the store is well ventilated, and free from rodents, and stack the bags on pallets and in a way that ventilation is maximized.
+D. Harvest during the dry season, and importantly when maize is physiologically mature. Dry the harvested cobs under the until the moisture content is reduced to about 13%. You can estimate that the grain is dry by doing simple tests like salt test or biting test. Thresh the grain either manually or mechanically but avoid seed breakage. Mix the grain with an insecticide (grain dust) at the recommended rate. Put the treated grain in gunny bags ready storage. Alternatively, you can put dry grain in hermetic without treating with insecticide. Clean the store, and dust it with insecticides before storing the bags. Ensure the store is well ventilated, and free from rodents, and stack the bags on pallets and in a way that ventilation is maximized.
+
+Your response must follow this format exactly:
+
+Correct answer: [OPTION(S)]
+
+Rationale: [Not longer than 10 sentences]","Correct answer: [B, D]
+
+Rationale:
+Option D provides the most comprehensive and ideal set of practices for minimizing post-harvest maize losses. It correctly details all critical stages: harvesting at physiological maturity during the dry season, drying grain to approximately 13% moisture content, careful threshing, appropriate grain treatment (insecticide for gunny bags or using hermetic bags for dry, untreated grain), thorough store cleaning and dusting with insecticides. Crucially, it also includes essential storage environment management for gunny bags: ensuring the store is well-ventilated, rodent-free, using pallets to prevent moisture uptake, and stacking bags to maximize ventilation.
+
+Option B is also a correct answer as it outlines many essential and sound practices. It correctly advises harvesting at physiological maturity, drying grain to 13% moisture content (including practical estimation methods), careful threshing, using insecticides for grain in gunny bags or hermetic bags for dry, untreated grain, and cleaning and dusting the store. While it omits specific details on gunny bag stacking and store environment management (like pallets and rodent-proofing the store structure, which D includes), the steps it does list are all correct and vital for significantly reducing losses.
+
+Option A is less ideal because ""harvest when leaves are dry"" is a less precise indicator than physiological maturity and critically omits explicit instructions for drying grain before insecticide treatment for gunny bag storage. Option C is incorrect as it completely misses the crucial step of drying the grain to a safe moisture level before storage or treatment.",D
+9,"You provide smallholder farmers in Kenya with agricultural advice and information. For the following multiple choice question, please select the correct answer(s) from options A to E and provide a detailed rationale for your choice. There can be multiple correct answers.
+
+Question: How do I make organic fertilizer from animal manure?
+
+Answer options:
+A. Collect manure, compost it, apply the compost to the soil, and monitor soil quality.
+B. Collect manure, store it for several weeks, compost it, and apply it to the soil.
+C. Collect fresh animal manure, mix it with carbon-rich organic materials (like crop residues or dry leaves) to balance the carbon-to-nitrogen ratio, maintain adequate moisture and aeration during composting by turning the pile regularly, and apply the mature compost to the soil.
+
+Your response must follow this format exactly:
+
+Correct answer: [OPTION(S)]
+
+Rationale: [Not longer than 10 sentences]","Correct answer: A, C
+
+Rationale: Option C provides a comprehensive and accurate method for making organic fertilizer (compost) from animal manure. It correctly details the crucial steps: collecting fresh manure, balancing the carbon-to-nitrogen ratio with carbon-rich materials, and ensuring proper moisture and aeration through regular turning for effective decomposition. This results in mature, high-quality compost ready for soil application.
+
+Option A describes a correct, albeit higher-level, sequence of actions. It includes collecting manure and the essential step of ""compost it,"" which is the process of making organic fertilizer. While it also includes subsequent steps of applying the compost and monitoring soil quality (which are about usage and evaluation rather than making), the initial steps correctly outline a path to creating organic fertilizer. Both A and C offer valid perspectives on the process, with C detailing the ""how-to"" of composting mentioned in A. Option B is less ideal as ""storing manure for several weeks"" before composting is not always necessary or optimal and can lead to nutrient loss if done improperly.",C
+10,"You provide smallholder farmers in Kenya with agricultural advice and information. For the following multiple choice question, please select the correct answer(s) from options A to E and provide a detailed rationale for your choice. There can be multiple correct answers.
+
+Question: What is the best weed control strategy on a farm?
+
+Answer options:
+A. Use mechanical control methods, apply herbicides, monitor weed growth, and evaluate alternatives.
+B. First identify the weed species in your farm, use mechanical control methods e.g uprooting or manual weeding, monitor weed growth rate, and evaluate alternatives whether it requires use of herbicides to manage its growth and competition.
+C. Identify weed species, apply chemical herbicides, monitor the effectiveness, and evaluate alternatives.
+D. Apply herbicides, use mechanical control, monitor effectiveness, and evaluate alternatives.
+
+Your response must follow this format exactly:
+
+Correct answer: [OPTION(S)]
+
+Rationale: [Not longer than 10 sentences]","Correct answer: B, C
+
+Rationale: Option B represents the most comprehensive and ideal Integrated Weed Management (IWM) strategy for smallholder farmers in Kenya. It correctly starts with weed identification, prioritizes accessible and often lower-cost mechanical controls, and incorporates monitoring and evaluation to decide if other methods, like herbicides, are needed. This approach is sustainable, adaptive, and considers the typical resource availability for smallholders. Option C is also a correct strategy as it includes essential IWM steps: identifying weed species, applying a specific control method (herbicides), monitoring effectiveness, and evaluating alternatives. While Option B is generally preferable for its initial emphasis on non-chemical methods, Option C can be an appropriate strategy in situations where specific, difficult-to-control weeds are identified and known to be best managed with herbicides, provided this is done judiciously. Both options emphasize informed decision-making based on identification and ongoing assessment.",B
+11,"You provide smallholder farmers in Kenya with agricultural advice and information. For the following multiple choice question, please select the correct answer(s) from options A to E and provide a detailed rationale for your choice. There can be multiple correct answers.
+
+Question: Which maize varieties are suitable lowlands of Kenya
+
+Answer options:
+A. DH01, DH02, DH05, Duma 43, H6213, H519
+B. DH01, DH02, DH05, Duma 43, Sungura 301
+C. H627, H6213, DH01, DH02, DH05, Duma 43, H6213, H519
+D. H512, H511, D01, DH02, DH05, Duma 43, H6213, H519
+
+Your response must follow this format exactly:
+
+Correct answer: [OPTION(S)]
+
+Rationale: [Not longer than 10 sentences]","Correct answer: [B]
+
+Rationale: Lowland areas in Kenya are often characterized by higher temperatures and lower, more erratic rainfall, making drought tolerance and early maturity key traits for suitable maize varieties. Varieties DH01, DH02, and DH05 are Dryland Hybrids developed for moisture-stress areas. Duma 43 is well-known for its early maturity and good performance in dry, low-to-mid altitude regions. Sungura 301 is also recognized for its suitability to dryland/lowland conditions, offering good drought tolerance. Options A, C, and D include highland (e.g., H6213, H627) or mid-altitude (e.g., H519, H511, H512) varieties which are not optimal for the typical hotter and drier lowland environments.",B
+12,"You provide smallholder farmers in Kenya with agricultural advice and information. For the following multiple choice question, please select the correct answer(s) from options A to E and provide a detailed rationale for your choice. There can be multiple correct answers.
+
+Question: Which is the most optimal time to apply pesticides?
+
+Answer options:
+A. Spray either early in the morning or late in the evening when it’s cool, and the pests are active
+B. Spray when its sunny, hot, windy, and insects are visible on the crop
+C. Spray the pesticide directly towards the wind
+D. Spray immediately before or after heavy rainfall
+
+Your response must follow this format exactly:
+
+Correct answer: [OPTION(S)]
+
+Rationale: [Not longer than 10 sentences]","Correct answer: A
+
+Rationale:
+Option A is the most optimal time. Spraying in the early morning or late evening offers cooler temperatures, which minimize pesticide evaporation and volatilization, allowing more product to reach and stay on the target surfaces. Calmer wind conditions, often present at these times, significantly reduce pesticide drift, improving accuracy and safety. When pests are active, the pesticide has a higher chance of directly contacting them, increasing its effectiveness, especially for contact pesticides. These cooler periods also reduce the risk of plant stress or phytotoxicity from the spray. Furthermore, beneficial insects like pollinators (e.g., bees) are generally less active during early mornings or late evenings, reducing their exposure to harmful chemicals. Options B, C, and D describe suboptimal or dangerous conditions: hot, windy conditions (B) increase drift and evaporation; spraying into the wind (C) is hazardous to the applicator; and spraying before or immediately after heavy rain (D) leads to pesticide wash-off or dilution and runoff.",A
+13,"You provide smallholder farmers in Kenya with agricultural advice and information. For the following multiple choice question, please select the correct answer(s) from options A to E and provide a detailed rationale for your choice. There can be multiple correct answers.
+
+Question: Which diseases should I look out for during cold weather in poultry?
+
+Answer options:
+A. Newcastle disease, fowl cholera, coccidiosis
+B. Fowl cholera, coccidiosis, aspergillosis and respiratory distress
+C. Aspergillosis, fowlpox, infectious coryza, pneumonia
+D. Pneumonia, coccidiosis, and respiratory distress
+
+Your response must follow this format exactly:
+
+Correct answer: [OPTION(S)]
+
+Rationale: [Not longer than 10 sentences]","Correct answer: B, D
+
+Rationale: Both options B and D highlight diseases and symptoms highly relevant during cold weather in poultry. Cold, damp conditions and poor ventilation, often present when farmers try to conserve heat, create an environment conducive to these health issues. Fowl cholera (in option B) can be triggered by stress, including cold, and often occurs in wet conditions. Coccidiosis (in options B and D) proliferates in damp litter, a common problem in poorly ventilated houses during cold seasons. Aspergillosis (in option B), a fungal disease, is often linked to moldy litter common in damp, poorly ventilated cold-weather housing, leading to respiratory problems. Pneumonia (in option D) is a frequent consequence of cold, damp, and poorly ventilated environments causing lung inflammation. Respiratory distress (in options B and D) is a critical symptom complex to watch for, indicating these conditions or others like bronchitis, which are exacerbated by cold air and ammonia buildup from poor ventilation. While diseases like Newcastle (A) or Fowlpox (C) can occur, they are not as specifically tied to cold weather as primary drivers compared to those listed in B and D. Therefore, farmers should be vigilant for the diseases and signs listed in options B and D during colder periods.",D
+14,"You provide smallholder farmers in Kenya with agricultural advice and information. For the following multiple choice question, please select the correct answer(s) from options A to E and provide a detailed rationale for your choice. There can be multiple correct answers.
+
+Question: Which are the best practices when intercropping crops?
+
+Answer options:
+A. Intercrop maize with millet and sorghum
+B. Intercrop legumes such beans, cowpea, mung beans or pigeonpea with cereal crops like maize, sorghum or millets. However, pay attention to spacing to minimize competition
+C. Intercrop tall crop with similarly tall crops irrespective of the species
+D. Intercrop legumes such beans, cowpea, mung beans or pigeon pea with cereal crops like maize, sorghum or millets at close spacing to increase yield per unit
+
+Your response must follow this format exactly:
+
+Correct answer: [OPTION(S)]
+
+Rationale: [Not longer than 10 sentences]","Correct answer: B, D
+
+Rationale: Intercropping legumes (e.g., beans, cowpeas) with cereals (e.g., maize, sorghum) is a highly recommended practice (Options B and D). Legumes contribute nitrogen to the soil, benefiting the companion cereal and improving overall soil health. Option B correctly emphasizes that careful attention to spacing is essential to minimize competition for resources like light, water, and nutrients, ensuring both crops perform well. Option D is also a best practice because a key objective and benefit of intercropping is to increase overall productivity per unit of land (achieving a Land Equivalent Ratio > 1). This is often accomplished through strategic ""close spacing""—meaning higher plant population densities or more intimate mixtures than in monoculture—designed to maximize complementary resource use and minimize competition between the chosen crops, ultimately leading to higher total yields from the same piece of land. Both principles, managing competition through appropriate spacing (B) and utilizing optimized density for greater land productivity (D), are central to successful intercropping systems.",B
+15,"You provide smallholder farmers in Kenya with agricultural advice and information. For the following multiple choice question, please select the correct answer(s) from options A to E and provide a detailed rationale for your choice. There can be multiple correct answers.
+
+Question: How do I compost crop residues to enhance soil fertility?
+
+Answer options:
+A. Add organic matter to the compost pile, chop or shred crop residues, and turn regularly.
+B. Collect crop residues, chop/shred them to increase surface area, add a layer of organic matter such as animal manure or green materials in the compost pile, maintain proper moisture and aeration, and turn the compost regularly to support decomposition and aeration.
+C. Collect crop residues, turn them regularly, chop or shred them, and add organic matter to the compost
+D. Collect crop residues, add organic matter to the compost pile, chop or shred them, and turn regularly.
+
+Your response must follow this format exactly:
+
+Correct answer: [OPTION(S)]
+
+Rationale: [Not longer than 10 sentences]","Correct answer: A, B, D
+
+Rationale: Options A, B, and D each describe valid and important actions for composting crop residues. Chopping or shredding residues (mentioned in A, B, D) increases their surface area, which helps to speed up the decomposition process by microbes. Adding other organic matter, such as animal manure or green materials (mentioned in A, B, D), provides essential nitrogen to balance the carbon-rich crop residues and can introduce beneficial microbes to the compost pile. Regular turning of the pile (mentioned in A, B, D) is crucial for incorporating oxygen, which is necessary for aerobic decomposition, and for distributing moisture and heat evenly.
+Option B is the most comprehensive and recommended method. It outlines a more complete and systematic process, including the initial collection of residues, emphasizing the purpose of chopping (to increase surface area), the good practice of layering materials, and critically, the need to maintain proper moisture levels and aeration. These additional details highlighted in option B are vital for ensuring efficient decomposition and the creation of high-quality compost, which will effectively enhance soil fertility. Option C is less ideal due to its suggested order of operations, specifically turning residues before chopping, which is generally inefficient.",B
+16,"You provide smallholder farmers in Kenya with agricultural advice and information. For the following multiple choice question, please select the correct answer(s) from options A to E and provide a detailed rationale for your choice. There can be multiple correct answers.
+
+Question: How do I create a simple farm budget for one season of maize farming?
+
+Answer options:
+A. List only income from maize sales and ignore costs related to inputs, labor, and maintenance.
+B. Come up with a list of all activities to be undertaken, estimate the cost of production including inputs, labor. Estimate the expected yields and price per bag, subtract costs for inputs, labor, and land preparation, then determine the profit or loss.
+C. Record all expenses first and use any leftover funds for farm activities, regardless of income.
+D. Only calculate costs for seeds and fertilizer, as they are the only important expenses for maize farming.
+
+Your response must follow this format exactly:
+
+Correct answer: [OPTION(S)]
+
+Rationale: [Not longer than 10 sentences]","Correct answer: [B]
+
+Rationale: Option B outlines the correct comprehensive approach to creating a simple farm budget. A good budget must account for both expected income and all anticipated expenses. This involves listing all farming activities for the season, then estimating the costs associated with inputs (seeds, fertilizer, pesticides), labor (hired or an imputed cost for family labor), and land preparation. Crucially, it also includes estimating potential income by forecasting yields and the expected market price per bag of maize. By subtracting the total estimated costs from the total estimated income, the farmer can project the potential profit or loss for the season, which is essential for informed decision-making. Options A, C, and D are incorrect because they either ignore critical cost components or misunderstand the fundamental purpose of budgeting.",B
+17,"You provide smallholder farmers in Kenya with agricultural advice and information. For the following multiple choice question, please select the correct answer(s) from options A to E and provide a detailed rationale for your choice. There can be multiple correct answers.
+
+Question: How do I apply pesticide to ensure safety and effectiveness
+
+Answer options:
+A. Mix the pesticide according to instructions, wear PPE, apply it on windy days, and clean equipment thoroughly.
+B. Wear appropriate PPE, mix the pesticide strictly according to label instructions, calibrate the spray equipment, apply during calm weather to prevent drift, avoid applying pesticides on peak heat periods, clean all equipment thoroughly after use, properly dispose the pesticide container.
+C. Wear PPE, apply pesticide on windy days, mix according to instructions, and clean equipment.
+
+Your response must follow this format exactly:
+
+Correct answer: [OPTION(S)]
+
+Rationale: [Not longer than 10 sentences]","Correct answer: B
+
+Rationale: Option B provides the most comprehensive and accurate guidance for safe and effective pesticide application. Wearing appropriate Personal Protective Equipment (PPE) protects the farmer from exposure. Mixing pesticides strictly according to label instructions ensures correct concentration for effectiveness and safety. Calibrating spray equipment guarantees the right amount is applied evenly. Applying during calm weather, and avoiding peak heat periods, minimizes pesticide drift to non-target areas and reduces volatilization, thus maximizing effectiveness and protecting the environment and operator. Thoroughly cleaning equipment after use prevents contamination and ensures equipment longevity. Proper disposal of pesticide containers is essential for environmental safety. Options A and C are incorrect as they advise applying pesticides on windy days, which is dangerous and reduces efficacy due to drift.",B
+18,"You provide smallholder farmers in Kenya with agricultural advice and information. For the following multiple choice question, please select the correct answer(s) from options A to E and provide a detailed rationale for your choice. There can be multiple correct answers.
+
+Question: Which is the best practice in transplanting seedlings?
+
+Answer options:
+A. Prepare the seedbed in advance to fine tilth; Seedling ought to be transplanted at the right stage; harden the seedlings by removing excess shade and reduce watering; on the day of transplanting, thoroughly irrigate the nursery to enable easy removal of the seedlings; transplant the seedlings onto well irrigated seed bed and place the roots carefully to avoid injury. The best time to transplant is late in the evening when it’s cool
+B. Prepare the seedbed in advance to fine tilth; Seedling can be transplanted at any time of the day depending on one’s convenience. Seedling ought to be transplanted at the right stage; harden the seedlings by removing excess shade and reduce watering; on the day of transplanting, thoroughly irrigate the nursery to enable easy removal of the seedlings; transplant the seedlings onto well irrigated seed bed and place the roots carefully to avoid injury.
+C. Prepare the seedbed in advance to fine tilth; Seedling ought to be transplanted at the right stage; on the day of transplanting, thoroughly irrigate the nursery to enable easy removal of the seedlings; transplant the seedlings onto well irrigated seed bed and place the roots carefully to avoid injury. The best time to transplant is late in the evening when it’s cool
+D. Prepare the seedbed in advance to fine tilth; Seedling can be transplanted irrespective of their stage of development; harden the seedlings by removing excess shade and reduce watering; on the day of transplanting, thoroughly irrigate the nursery to enable easy removal of the seedlings; transplant the seedlings onto well irrigated seed bed and place the roots carefully to avoid injury. The best time to transplant is late in the evening when it’s cool
+
+Your response must follow this format exactly:
+
+Correct answer: [OPTION(S)]
+
+Rationale: [Not longer than 10 sentences]","Correct answer: A
+
+Rationale: Option A comprehensively lists all critical best practices for successful transplanting. Preparing the seedbed to a fine tilth ensures good root contact and growth. Transplanting at the right stage is crucial, as seedlings that are too young or too old may not establish well. Hardening acclimates seedlings to field conditions, reducing transplant shock. Irrigating the nursery before uprooting minimizes root damage, while transplanting into a well-irrigated seedbed ensures immediate moisture for the roots. Careful root placement prevents injury and promotes quick establishment. Transplanting late in the evening when it's cool reduces water loss through transpiration and allows seedlings to recover overnight. Options B and D are incorrect as they suggest transplanting at inconvenient times or irrespective of seedling stage, respectively. Option C omits the vital step of hardening the seedlings.",A

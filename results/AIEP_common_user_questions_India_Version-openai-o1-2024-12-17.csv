@@ -1,0 +1,281 @@
+question_id,prompt,answer
+1,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: What factors affect the price of Guntur Chilli?","The price of Guntur Chilli mostly depends on supply and demand in both local and export markets. When there is a bumper harvest and more chillies available, prices usually go down. If heavy rains or pests reduce yields, supplies shrink, and prices can rise. Harvest and post-harvest costs like labor, drying, and grading also affect the final price you get. Export demand from places like the Middle East or Europe can make prices go higher. High-quality chillies with good color, pungency, and cleanliness usually fetch a better rate. Sometimes, government policies such as minimum support prices also influence chilli prices."
+2,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: What is the appropriate age for vaccination of cows?  ","Calves should generally start receiving vaccinations from around four to six months of age, once they can adequately respond to vaccines. Consult your local veterinarian or extension officer for a recommended vaccination schedule specific to your area. The main vaccines commonly recommended in India include those for foot-and-mouth disease, hemorrhagic septicaemia, black quarter, and brucellosis. For foot-and-mouth disease, start at four to six months old, then repeat every six months. For hemorrhagic septicaemia and black quarter, begin at six months and follow up with an annual booster. In female calves, brucellosis vaccination is often given between four and eight months of age. Booster shots may be needed after the first course to keep immunity strong, so keep a clear record of timings. Also, remember that vaccinating mother cows on time helps protect newborn calves through the colostrum."
+3,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: What cheyyali to prevent the mango tree from rotting and falling ","1. Ensure the soil around the mango tree drains well by avoiding overwatering and improving water channels.  
+2. Remove and burn any dead or infected branches to stop the spread of rot.  
+3. Scrape off any rotting bark from the trunk carefully and apply a recommended copper-based fungicide or Bordeaux mixture.  
+4. Maintain proper orchard sanitation by clearing fallen leaves, fruits, and debris.  
+5. Mulch around the base to keep soil moisture balanced but avoid piling mulch directly against the trunk.  
+6. Provide balanced nutrients, especially nitrogen, phosphorus, and potassium, through compost or well-rotted farmyard manure.  
+7. Check the soil pH and correct it if needed, as mango trees prefer slightly acidic to neutral conditions.  
+8. Monitor the tree regularly for signs of fungal infections or pests and act immediately if you see symptoms.  "
+4,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: What are alternative crops to cowdung?","You can use green manure crops like sunhemp or dhaincha to enrich the soil with nitrogen.  
+Crop residues and farm waste can be composted to create a good organic fertilizer.  
+Vermicompost, made from earthworms digesting organic matter, provides nutrients and improves soil structure.  
+If you keep poultry, their manure is another rich nutrient source.  
+Other livestock manures (like goat or sheep) can also be used instead of cowdung.  
+Biofertilizers, such as rhizobium for legumes, help increase nutrient availability to crops.  
+Some farmers also use fish emulsion or seaweed extract for added nutrients.  
+Always ensure proper composting or decomposition to avoid pests and diseases in your field.  "
+5,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: What are the effects of marigold as a trap crop?","Marigold can help attract and trap pests like nematodes and certain insects, keeping them away from your main crop.  
+Its roots release chemicals that can reduce soil nematode populations, which helps protect crops such as tomatoes or peppers.  
+The bright flowers also attract beneficial insects that can feed on harmful pests.  
+Growing marigold as a border or between crop rows can interrupt pest movement and lower pest pressure.  
+After the marigold has done its job, remove and destroy the plants to prevent pests from spreading back to your main crop.  "
+6,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: How do I prevent leaf blight in chili?","Leaf blight in chili is typically caused by fungal pathogens such as Colletotrichum or Alternaria.  
+To prevent it, start by using certified seeds or disease-resistant varieties.  
+Practice crop rotation with non-chili crops to reduce pathogen buildup in the soil.  
+Make sure your plants have enough space between them to allow good air movement.  
+Avoid overhead irrigation, since wet leaves help the fungus spread.  
+Remove and destroy infected leaves or plants as soon as you notice any symptoms.  
+Use recommended fungicides such as copper-based or mancozeb-based sprays, strictly following label instructions.  
+Keep your field clean and free of plant debris to limit future infections.  "
+7,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: Can the quantity of grain be increased in the absence of green fodder?  ","Yes, it is possible to increase grain yield without green fodder, but you need to ensure proper soil fertility and balanced nutrition. You can replace green fodder with other organic materials like compost, crop residues, or well-decomposed farmyard manure to maintain soil health. Adding the right combination of chemical fertilizers, such as nitrogen, phosphorus, and potassium, also supports healthy plant growth. Ensure timely planting, weed control, and water management to reduce competition for nutrients. If you have animals, use their manure efficiently to enrich the soil and boost grain production. Incorporate crop rotation and select suitable, high-yielding varieties that perform well under local conditions. When possible, conduct a soil test to understand nutrient requirements and apply fertilizers accordingly. Proper pest and disease control will further prevent yield losses."
+8,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: How do I to recognize milk fever in cows?  ","Milk fever usually occurs in cows right after calving, when their calcium levels drop suddenly. Watch for early signs like the cow being weak, unsteady on her feet, and losing interest in feed. A common symptom is muscle trembling or shaking, especially in the limbs. Sometimes the cow’s ears feel cold, and she may become dull or drowsy. As the condition worsens, she may not be able to stand at all and can collapse. Her heart rate may become faster or irregular. Prompt veterinary treatment with calcium is crucial to prevent serious complications."
+9,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: Can animal feed be made at home?  ","Yes, you can make animal feed at home by combining locally available ingredients. Start with cereals like maize or millet and add protein sources like soybean cake or groundnut cake. Include a vitamin-mineral premix or at least common salt to balance nutrition. Thorough mixing and grinding ensure each animal gets the right nutrients in every bite. Store the feed in a clean, dry place to prevent spoilage and mold. Keep an eye on animal health, weight gain, and milk or egg production to see if you need to adjust the formula. Homemade feed can help reduce costs but requires careful oversight. If unsure, seek advice from an agricultural extension agent or veterinarian."
+10,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: How do I to choose a suitable breed of cow?  ","First, decide whether you want a cow primarily for milk or for both milk and draft purposes. Then, look for breeds that perform well in your local climate and have natural disease resistance, such as Sahiwal, Gir, or Red Sindhi. Consider your feed availability, because heavier exotic breeds like Holstein Friesian or Jersey crosses need more and higher-quality fodder. Check the average milk yield and fat content of each breed, as this affects your income from selling milk. Ask neighbors or local extension officers about the success rate of various breeds in your area. Make sure you select a healthy animal with a clear vaccination record. Also, choose a supplier with a good reputation to reduce the risk of hidden health problems. Finally, inspect the physical features: bright eyes, healthy coat, strong legs, and a well-developed udder. A veterinarian’s advice can help confirm your decision."
+11,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: What are some regenerative farming strategies I can try?","Grow cover crops like legumes to protect your soil and add nitrogen. Rotate different crops (such as cereals, pulses, and oilseeds) to break pest cycles and maintain fertility. Reduce tillage or practice no-till to preserve soil structure and encourage beneficial organisms. Apply organic fertilizers like compost or farmyard manure to improve soil health and boost crop yields. Mulch with crop residues or straw to conserve moisture, suppress weeds, and enrich the soil. Plant native trees or hedgerows around your fields to enhance biodiversity and protect against wind erosion. Practice integrated pest management by relying on natural predators, biopesticides, and regular pest monitoring. Conserve water with drip irrigation or by building farm ponds to store rainwater."
+12,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: What to do if my cows are weak?  ","First, ensure your cows receive enough high-quality feed with a mix of green fodder, dry fodder, and a balanced concentrate.  
+Second, provide a mineral mixture or supplement containing calcium, phosphorus, and trace minerals to improve bone strength and general health.  
+Third, always keep clean water available, as dehydration can worsen weakness.  
+Fourth, regularly deworm your cows to remove internal parasites that can cause weight loss and poor health.  
+Fifth, check for external parasites like ticks and lice, and treat them promptly.  
+Sixth, maintain a clean and dry shelter to protect them from extreme weather and prevent infections.  
+Seventh, keep stress levels low by avoiding overcrowding and sudden feed changes.  
+Eighth, if weakness persists or you notice other symptoms (like fever or diarrhea), consult a veterinarian immediately.  "
+13,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: What is the status of milk production in India? ","India is currently the world’s largest milk producer, producing over 220 million tonnes of milk in 2021–22.  
+Milk production has been growing steadily thanks to improved farming practices and government support.  
+Small-scale and marginal farmers contribute more than half of the total milk production in our country.  
+States like Uttar Pradesh, Rajasthan, and Andhra Pradesh are among the top contributors.  
+Government schemes such as the Rashtriya Gokul Mission focus on improving indigenous cattle breeds for better yields.  
+Dairy cooperatives, like Amul, help farmers by providing a stable market and fair prices.  
+To further increase production, farmers should focus on better feeding, proper animal health management, and improved hygiene.  
+They can also attend training programs to learn modern dairy techniques and business practices.  
+Growing consumer demand in urban areas ensures a good market for dairy products.  
+By adopting scientific methods and tapping into government resources, milk production can continue to rise."
+14,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: How do I control yellow pests in paddy fields? ","Yellow stemborer is the main yellow-colored pest in paddy that causes dead hearts and whiteheads. Start with clean cultivation and remove stubbles to break pest cycles. Use balanced fertilizers, avoiding excess nitrogen, because too much nitrogen encourages pest attacks. Install pheromone traps to monitor adult moths and reduce their population. Release Trichogramma or other biological agents to control pest eggs. Keep your field weed-free and maintain proper water levels. If infestation is severe, apply recommended insecticides such as chlorantraniliprole at the correct dose. Always follow safety measures and observe the waiting period before harvesting."
+15,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: What is the best goat feed?  ","Goats thrive on a mix of green fodder (like legume fodder such as lucerne or berseem) and dry roughage (like paddy straw or groundnut straw).  
+They also benefit from browsing on shrubs and tree leaves, which they naturally prefer.  
+Adding a concentrate feed (grains, oilseed cakes, or commercial goat concentrate) ensures they get enough energy and protein.  
+Always provide a mineral mixture or salt lick to supply essential minerals.  
+Clean, fresh water should be available at all times to keep goats healthy and hydrated.  
+Adjust the quantity and type of feed based on the goat’s age, weight, and milk production.  
+Make sure you store feed properly and never use moldy or spoiled feed.  
+Gradually introduce any new feed to avoid digestive problems.  "
+16,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: How do I prevent cotton bollworm?","1. Start by planting recommended Bt cotton varieties that are resistant to bollworms.  
+2. Practice regular field scouting to identify early signs of bollworm eggs and larvae.  
+3. Use pheromone traps or light traps in your field to monitor and reduce adult moth populations.  
+4. Remove and destroy any infested bolls or plant debris to reduce pest carryover.  
+5. Encourage natural enemies like Trichogramma wasps or ladybird beetles by avoiding indiscriminate pesticide sprays.  
+6. Combine cultural methods, including crop rotation and timely sowing, to break the pest life cycle.  
+7. If necessary, choose selective pesticides recommended by local extension officers and follow the prescribed dosage.  
+8. Ensure good irrigation and balanced fertilizer use, as healthy plants resist pests more effectively.  "
+17,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: What is the best fertilizer when planting?","The best fertilizer depends on your soil test results and the crop you plan to grow. A balanced fertilizer that supplies enough nitrogen (N), phosphorus (P), and potassium (K) is generally recommended when planting. Applying farmyard manure or compost along with NPK fertilizers improves soil structure and supplies vital micronutrients. If your soil lacks phosphorus, you can use a phosphorus-rich fertilizer like Di-Ammonium Phosphate (DAP) at planting. Too much fertilizer can harm your crop, so always follow the recommended application rates from a soil test. It’s also important to use the right fertilizer placement, such as putting it near seeds but not directly touching them. By balancing organic and inorganic fertilizers, you can maintain soil fertility for healthy crop growth."
+18,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: How much cow dung should be applied per hectare?","You can apply about 5 to 10 tons of well-decomposed cow dung per hectare. Ensure the cow dung is fully composted (dark, crumbly, and without a foul smell) before using it. Apply it evenly across the field and mix it into the topsoil. Do this preferably before sowing or transplanting for best results. If your soil is sandy or low in organic matter, aim for the higher end of this range. For heavier or more fertile soils, the lower amount may be enough. Adjust the quantity based on soil test results and the specific crop requirements. Remember to maintain good moisture levels to help the manure break down and release nutrients to the crop."
+19,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: White mold is developing on my mushrooms, what are potential solutions?  ","White mold often appears when there is too much moisture or poor ventilation in your mushroom growing area. First, remove any visibly infected mushrooms to prevent the spread of the mold. Improve air circulation by opening vents or using a fan, and adjust humidity levels to around 85–90%. Keep the growing beds and all tools clean and sanitized, washing hands and tools before handling mushrooms. If the mold persists, you may carefully apply a mild fungicide approved for mushrooms, but follow label instructions strictly. Using clean, disease-free spawn is essential to avoid introducing mold in the first place. Dispose of contaminated materials away from your compost or growing area. Regularly monitor for early signs of mold to take prompt action. Consistent cleanliness, proper ventilation, and correct moisture management are the best ways to fight white mold."
+20,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: How many types of onions are there and what are there benefits?  ","There are many onion varieties worldwide, but in India the commonly grown ones include red onions, white onions, and spring onions.  
+Red onions have a sharp taste and higher levels of antioxidants, which may support immunity.  
+White onions are milder, making them good for raw salads and pickles.  
+Spring onions, also called green onions, are harvested with their leaves and offer vitamins and a mild flavor.  
+Onions in general are rich in vitamin C, dietary fiber, and natural compounds that may help lower cholesterol and blood pressure.  
+They can be used fresh or stored for months, giving you a chance to sell or consume them throughout the year.  
+Choosing the right variety depends on your local climate, market demand, and what storage length you need.  
+By selecting suitable onion types and following proper farming methods, you can achieve good yields and steady profits.  "
+21,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: How much animal feed should be given to milk cows?  ","A milking cow usually needs feed equal to about 2.5 to 3% of her body weight in dry matter each day. This includes green fodder (like grasses or legumes) and dry fodder (like straw). For concentrate feed, offer about 1 kg for every 2 to 2.5 liters of milk produced, plus 1 kg for the cow’s basic maintenance. Split the concentrate into two or three feedings a day so the cow digests it better. Always provide the cow with clean drinking water so she can produce plenty of milk. You can adjust the amount of concentrate based on the cow’s health and milk production. Monitor her body condition and milk yield regularly and adjust the feed if needed. If you have doubts, you can consult a local livestock extension worker for personalized advice."
+22,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: How much feed is needed for a rural cow?  ","A rural cow generally needs feed equal to about 2.5–3% of its body weight per day in dry matter. That usually translates to around 6–8 kilograms of roughage (like green fodder, straw, or crop residues) per day for an average-sized cow. If the cow is producing milk, you should also include 1–2 kilograms of concentrate (like a mixture of grains, oil cakes, and minerals). Always ensure the cow has access to clean drinking water at all times. Provide fresh feed twice a day to maintain good rumen function and overall health. If possible, offer a mix of green fodder, dry fodder, and concentrates to balance nutrients. Adjust feed quantities based on the cow’s body condition and milk yield. A mineral mixture or salt lick also helps ensure proper nutrition."
+23,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: What should be fed to a pregnant cow?  ","Feed your pregnant cow a balanced mix of green fodder, dry roughage (like wheat straw), and a protein-rich concentrate. Include ingredients such as oilseed cakes (like groundnut or cottonseed cake) or soybean meal in the concentrate. Offer fresh, clean water at all times to prevent dehydration. Ensure the ration contains sufficient minerals and vitamins, especially calcium and phosphorus, often provided through a mineral mixture. Provide at least 2–3 kg of concentrate feed per day, adjusting based on the cow’s body condition. If possible, include leguminous fodders like lucerne or berseem for extra protein. Always offer salt separately or through a salt lick. Keep the feeding schedule regular to reduce stress on the cow."
+24,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: How do I manage water in rice cultivation?  ","1. Level your field thoroughly so water is evenly distributed and not wasted.  
+2. Maintain a shallow flood of about 2–5 cm during the early growth stage to help young plants establish well.  
+3. Once the plants are stable, use alternate wetting and drying (AWD), allowing the soil to dry slightly before re-irrigating.  
+4. Regularly check soil moisture with a stick or by feeling the soil to know when to water next.  
+5. Keep field bunds in good condition to prevent water seepage and weed entry.  
+6. Avoid constant, deep flooding because it can waste water and encourage weed growth.  
+7. Clear irrigation channels often to ensure smooth water flow and to quickly drain excess water if needed.  
+8. Use weather forecasts to guide your irrigation schedule and avoid watering during or right after heavy rains.  
+9. Stop watering about a week before harvest to help the grains mature and dry properly.  
+10. This approach saves water, reduces costs, and promotes better rice yields.  "
+25,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: What type of beans should I plant?","The best type of beans for you depends on your local climate and market demand.  
+French beans (also known as green beans) are popular in cooler regions and often fetch a good price.  
+Cowpea (lobia) performs well in warm, rainy areas and grows quickly.  
+Cluster beans (guar) are drought-tolerant and ideal for semi-arid regions.  
+If your farm has limited space, consider bush bean varieties that stay small.  
+Pole beans (like yardlong beans) need a trellis but produce pods over a longer period.  
+Choose disease-resistant varieties recommended by your local agriculture department or reliable seed suppliers.  
+Ensure good soil preparation and timely watering to get the best yields.  "
+26,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: What precautions should farmers take to prevent waterlogging?","1. Level your fields or create a slight slope so excess water can flow away.  
+2. Build small drainage channels or furrows along crop rows to quickly remove standing water.  
+3. Use raised beds for vegetables or other crops sensitive to waterlogging.  
+4. Avoid over-irrigation by monitoring soil moisture and applying water only when needed.  
+5. Improve soil structure by adding well-decomposed compost or farmyard manure.  
+6. Check and clean your drainage pathways or bunds regularly to prevent blockages.  
+7. If heavy rains are expected, try planting crops that can tolerate short-term flooding.  
+8. Consider intercropping with deep-rooted plants to help break up compacted soil and improve water drainage.  "
+27,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: What are the common diseases that affect cattle?","Foot-and-mouth disease (FMD) can cause sores in the mouth and around the hooves.  
+Hemorrhagic septicemia leads to fever and swelling in the throat area, often causing breathing problems.  
+Mastitis affects the udder, making it swollen and painful, and can reduce milk production.  
+Theileriosis is spread by ticks and can cause fever, weakness, and a sudden drop in milk yield.  
+Lumpy skin disease causes bumps on the skin and can reduce the animal’s overall health.  
+Black quarter, also known as blackleg, can result in muscle swelling, lameness, and sudden death.  
+Brucellosis can lead to abortions, reduced fertility, and can even affect human health if milk is not handled properly.  
+Bovine ephemeral fever or “three-day sickness” leads to fever, stiffness, and reduced activity.  
+Vaccinations, regular deworming, proper hygiene, and tick control are key preventive measures.  
+Consult a veterinarian immediately if you notice any symptoms for timely treatment and advice.  "
+28,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: How can animals be protected from infectious diseases?  ","Vaccinate your animals regularly according to the recommended schedule from a trusted veterinarian.  
+Keep their living area clean and well-ventilated by removing manure and providing fresh bedding.  
+Ensure animals have access to clean drinking water and a balanced, nutritious diet.  
+Isolate any sick or newly purchased animal from the rest of the herd until it is fully healthy.  
+Practice proper disposal of dead animals to prevent disease spread in the environment.  
+Use clean equipment and disinfect tools, sheds, and feeding containers regularly.  
+Monitor your animals daily for any signs of illness and seek veterinary help immediately if you notice problems.  
+Limit visitors and movement of animals in and out of your farm to reduce the risk of infection.  "
+29,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: What causes dandruff in onions?  ","“Dandruff” in onions is usually caused by a soil-borne fungus called Sclerotium cepivorum, also known as white rot. This fungus thrives in cool, moist conditions and can stay in the soil for many years. It produces small black particles (sclerotia) on onion bulbs that resemble dandruff. Infected plants often show yellowing leaves and stunted growth before the bulbs start rotting. Using certified disease-free seeds or transplants is a good starting point for preventing the disease. Practicing crop rotation with non-allium crops for at least four years between onion plantings also reduces its spread. Removing and destroying infected plants quickly helps stop further infection. Maintaining well-drained soil and avoiding overwatering can slow down the fungus’s growth."
+30,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: What are the main symptoms of common parasitic diseases found in animals?  ","Common signs of parasitic infections in animals include poor appetite and weight loss.  
+They sometimes become weak or appear lethargic, with reduced milk production in dairy animals.  
+You may see signs of internal parasites such as diarrhea, a bloated stomach, or worms in the droppings.  
+In many cases, animals can develop pale gums or eyes (anemia) because the parasites feed on their blood.  
+External parasites like ticks, mites, or lice can cause itchy skin, hair loss, scabs, or sores.  
+Heavily infested animals might separate from the herd and lie down more often due to discomfort.  
+Coughing or breathing difficulty can also occur if lungworms are present.  
+In young animals, parasitic infections can slow growth and increase susceptibility to other diseases.  
+Severe or untreated cases might lead to sudden death, especially with blood-sucking parasites.  
+If you notice any of these signs, isolate the affected animals and contact a veterinarian for the proper treatment plan.  "
+31,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: How to treat lameness in animals?  ","First, observe the animal’s foot carefully for any wounds, swelling, or pebbles stuck between the hooves. Clean the area gently with warm water and a mild antiseptic solution to remove dirt and germs. If there is a minor wound, apply an antiseptic ointment and keep the foot bandaged to prevent further infection. Ensure the animal is kept on clean, dry bedding and avoid letting it walk on muddy or rough surfaces. In cases of foot rot or severe swelling, consult a veterinarian for proper medication and advice. Providing a balanced diet and adding mineral supplements like zinc, copper, and vitamin E can improve hoof health. Regular hoof trimming and foot baths with mild disinfectants can also prevent lameness. If the animal’s condition doesn’t improve within a few days or if it worsens, seek immediate veterinary help."
+32,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: How can soil health be improved with crops?","Plant nitrogen-fixing crops such as pigeon pea or chickpea to naturally enrich the soil with nitrogen. Rotate different crop types (cereals, pulses, oilseeds) to break pest and disease cycles and maintain soil fertility. Use green manure crops like dhaincha or sunhemp to add organic matter and improve soil structure. Keep some crop residue on the field surface as mulch to retain moisture and prevent soil erosion. Reduce or avoid burning leftover plant material; instead, incorporate it into the soil to boost organic matter. Try cover cropping between main crops to protect soil from erosion and suppress weeds. Maintaining a balanced application of well-decomposed compost or farmyard manure also strengthens soil health."
+33,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: What are some organic methods of controlling pests and diseases in bean crops?","Use disease-free seeds and apply compost to enrich the soil before planting.  
+Practice crop rotation with non-legume crops to break pest life cycles.  
+Remove and burn any infected leaves or plants immediately to stop diseases from spreading.  
+Spray neem oil or chili-garlic solution on the leaves to repel insect pests.  
+Encourage natural predators like ladybird beetles and lacewings to control harmful insects.  
+Avoid overhead watering to keep leaves dry, helping prevent fungal infections.  
+Provide enough spacing between plants so air can circulate and reduce moisture buildup.  
+Regularly scout your fields and treat early pest or disease signs quickly."
+34,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: What are the diseases that occur in rice crops?  ","Common rice diseases include bacterial leaf blight, rice blast, sheath blight, false smut, brown spot, and bacterial leaf streak.  
+Bacterial leaf blight is caused by bacteria that enter through water or leaf openings and make the leaves turn yellow or grayish.  
+Rice blast is a fungus that starts with small, circular or diamond-shaped spots on leaves which can spread quickly.  
+Sheath blight appears as oval, greenish-gray lesions on lower leaves, weakening the plant.  
+False smut forms greenish-yellow or orange spore masses on grains, reducing crop quality.  
+Brown spot creates round, dark-brown lesions on leaves and grains, often linked to poor soil nutrients.  
+Bacterial leaf streak appears as water-soaked streaks on leaves, which later become translucent and yellowish.  
+It is important to scout fields frequently and manage these diseases early to protect your crop’s yield.  "
+35,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: There is a lot of grass in the paddy, what are potential solutions?","First, make sure the field is properly leveled and flooded after transplanting to drown out many grass weeds. Second, do manual or mechanical weeding during early crop stages, especially around 15-20 days after transplanting. Third, if recommended in your area, apply a selective herbicide labeled for paddy to target grasses without harming the rice. Fourth, avoid letting the field dry too long, as grasses will emerge when water levels drop. Fifth, remove any weeds before they mature and produce seeds, to reduce future weed problems. Sixth, apply well-decomposed organic matter to maintain healthy soil and improve rice growth. Seventh, use certified, weed-free seeds to prevent introducing more weed seeds into the field. Eighth, practice crop rotation if possible, because rotating with non-rice crops can disrupt weed life cycles. Finally, keep good field records to track what weed control methods worked best so you can improve every season."
+36,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: Which onion seed is good?  ","The best onion seed choice depends on your local climate, soil type, and market preference. In many parts of India, varieties like N-53, Pusa Red, Bhima Super, and Baswant 780 have shown good results. These seeds generally produce stable yields and have decent resistance to common onion diseases. Always buy certified or truthfully labeled seeds from a reputable source. Before planting, ensure your soil is well-drained, and test soil fertility to decide on any needed fertilizers. Sow seeds in well-prepared nurseries and then transplant healthy seedlings at the right spacing. Provide balanced irrigation, especially at bulb formation, and avoid waterlogging. Proper weed control and timely disease management are also crucial for success. Finally, store harvested onions in a cool, dry place with good aeration to prolong shelf-life."
+37,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: How to prepare a room to grow button mushrooms?  ","First, select a clean, shaded, and well-ventilated room or shed where you can control temperature and humidity.  
+Clean and disinfect all walls, floors, and surfaces thoroughly to prevent contamination.  
+Ensure the room temperature stays around 20 to 25°C during spawning (when you plant the mushroom spawn) and slightly lower (about 16 to 18°C) during cropping (when mushrooms form).  
+Keep humidity at about 85–90% by lightly misting water or using a humidifier, but avoid creating puddles on the floor.  
+Provide proper ventilation to let out excess carbon dioxide, but avoid strong drafts that dry out the compost or mycelium.  
+If possible, use shelves or racks to arrange compost bags or trays in layers and maximize space.  
+Monitor for pests or diseases frequently and remove any affected substrate immediately to protect healthy growth.  
+Maintain cleanliness at all times, and wash hands and tools before handling the mushrooms to reduce contamination.  "
+38,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: When can you cultivate paddy in Bihar?  ","In Bihar, the main season for paddy cultivation (Kharif) begins with the onset of the monsoon, usually in mid-June to early July.  
+You should prepare your nursery around mid-June and aim for transplanting by early July.  
+Ensure timely irrigation, as paddy requires standing water during its early growth stages.  
+Fertilize with nitrogen (urea), phosphorus (DAP), and potash (MOP) according to soil test results.  
+Keep an eye out for pests like stem borer or leaf folder and diseases such as blast.  
+Weed control is crucial, so practice hand weeding or use recommended herbicides.  
+Harvest usually starts by late October to November, depending on the rice variety and sowing date.  
+Timely harvesting prevents grain shattering and reduces losses.  
+If you choose to grow Boro paddy (summer crop), sow from December to January and harvest by April-May.  "
+39,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: When can you cultivate onions?  ","In most parts of India, onions are grown in three main seasons: Kharif (June-July), late Kharif (August-September), and Rabi (October-November).  
+The Kharif onion crop is planted with the onset of monsoon, while the late Kharif onions are planted slightly after the main monsoon period.  
+The Rabi season is usually the most popular because moderate temperatures and lower rainfall help the onions develop well.  
+You can raise seedlings in a nursery about a month before the transplanting date.  
+Transplant when seedlings are about 15 cm tall and have 3-4 true leaves.  
+Choose varieties recommended for your region to handle local climate conditions.  
+Ensure well-drained soil and proper spacing to prevent disease and get good bulb formation.  "
+40,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: How can I plant mushrooms?","Start by choosing a suitable mushroom variety, such as oyster or button mushrooms, that grows well in your local climate.  
+Purchase or prepare high-quality spawn to ensure a good start.  
+Prepare a clean substrate like paddy straw, wheat straw, or compost, and pasteurize or sterilize it to kill unwanted microorganisms.  
+Let the substrate cool before thoroughly mixing the spawn.  
+Fill the mixture into clean plastic bags or containers, pressing lightly to ensure good contact between spawn and substrate.  
+Maintain proper temperature and humidity (20–30°C and 80–90% humidity) by placing the bags in a warm, shaded, well-ventilated area.  
+After a few days, small mushroom pins will appear, and you should lower temperatures slightly for better growth if needed.  
+Water gently, keeping the air and substrate moist but not waterlogged.  
+Harvest mushrooms just before the caps fully open to ensure tender quality.  
+Proper hygiene, consistent moisture, and the right temperature are key for healthy mushroom yields.  "
+41,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: What diseases are caused by mushrooms?  ","Mushrooms are the fruiting bodies of fungi, and not all fungal diseases in crops produce mushrooms. Some mushrooms are poisonous and can cause severe health issues in humans if eaten by mistake. Symptoms can range from vomiting and diarrhea to serious organ damage. It’s easy to confuse poisonous mushrooms with edible ones, so never eat wild mushrooms unless an expert identifies them. In humans, some mushroom spores can also trigger allergies or breathing problems. However, mushrooms themselves usually do not cause plant diseases; many plant diseases are caused by fungi that do not form mushrooms (for example, rusts and mildews). Mushrooms growing in farmland often help decompose organic matter. If you suspect mushroom poisoning, seek medical attention immediately. Always be careful when handling unfamiliar mushrooms. Consult a local agricultural officer or expert for safe identification and handling."
+42,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: What types of mushrooms are there?","There are many types of mushrooms that farmers can grow or find in markets. The most popular in India include button mushrooms, which are easy to grow indoors. Oyster mushrooms come in various colors and thrive on straw or other agricultural waste. Paddy straw mushrooms are often grown in warm, humid climates using paddy straw as a base material. Milky mushrooms have a white cap and stem and do well in hot conditions. Shiitake mushrooms are known for their rich flavor and grow on wooden logs or sawdust. Some mushrooms, like reishi, are valued for medical and health benefits. Each type requires proper hygiene, moisture, and ventilation for good growth. You can choose a mushroom variety based on your local climate, available materials, and market demand."

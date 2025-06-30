@@ -1,0 +1,416 @@
+question_id,prompt,answer
+1,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: What factors affect the price of Guntur Chilli?","1. The first thing buyers look at is quality: pods that are bright red, uniform, with high pungency and low moisture always fetch a premium.  
+2. Variety matters; popular export types such as 334, Teja (S-17) or Wonder Hot get higher rates than local or mixed lots.  
+3. Grades are fixed in the Guntur market based on moisture, length, colour and amount of broken or damaged pods—better grades mean better price.  
+4. Daily supply at the Guntur yard strongly affects the rate: when many lorry-loads arrive after harvest, prices dip; when arrivals are thin, rates rise.  
+5. Overall production levels in Andhra Pradesh, Telangana and Karnataka change the price—drought, heavy rain, or pest attacks that cut yield usually push prices up.  
+6. Export demand from China, Bangladesh, Sri Lanka and the Gulf can suddenly raise prices; a slowdown or higher freight costs pull them down.  
+7. Domestic festival and masala-industry demand (e.g., before Diwali or Ramzan) also creates temporary spikes.  
+8. Cold-storage capacity influences the market: if farmers or traders can hold stock, they release slowly and keep prices firm; when stores are full, they rush sales and prices fall.  
+9. Government moves—such as export incentives, pesticide residue alerts, or changes in minimum support for alternative crops—indirectly sway chilli prices.  
+10. Finally, daily auction mood and information flow matter, so checking updated market arrivals and rates before deciding to sell can add several rupees per kilo to your income."
+2,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: What is the appropriate age for vaccination of cows?  ","1. No vaccine is needed at birth; just be sure the calf gets plenty of colostrum within the first 2 hours.  
+2. Begin vaccinations when the calf is 3–4 months old, because by that age the protection from colostrum has fallen.  
+3. Foot-and-Mouth Disease (FMD): first dose at 4 months, booster one month later, then repeat every 6 months (usually Feb–Mar and Sept–Oct).  
+4. Haemorrhagic Septicaemia (HS): first dose at 4–6 months, then one shot every year just before the monsoon.  
+5. Black Quarter (BQ): first dose at 6 months, then yearly along with the HS vaccine.  
+6. Brucellosis (S-19 vaccine): give one dose to female calves only, between 4 and 8 months of age; no booster is needed later.  
+7. Anthrax (only in areas where the disease occurs): first dose at 6 months, then yearly.  
+8. Theileriosis vaccine (optional but useful in cross-bred animals): single dose at about 3–4 months of age.  
+9. Keep all vaccines in an ice box while you travel, use a new sterile needle for every animal, and record the date on a wall chart.  
+10. Follow this schedule and your cattle will be well protected, but always consult your local veterinarian if disease risk in your area changes."
+3,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: What cheyyali to prevent the mango tree from rotting and falling ","1. Keep rain-water from standing near the base of the mango: make a shallow ring-basin 50-60 cm away from the trunk and dig a small drain so excess water flows out quickly.  
+2. Mix 2–3 kg well-decomposed farmyard manure + 250 g neem-cake + 50 g Trichoderma viride powder in the topsoil around each tree every year; this encourages good microbes that suppress root-rot fungi.  
+3. Once a year, scrape loose, cracked or blackened bark from the collar region, let it dry for a day, and paint the cleaned area with Bordeaux paste or 3 % copper oxychloride paste to stop stem-rot and gummosis.  
+4. Remove and burn any dead or badly infected branches immediately so the disease cannot spread.  
+5. Give balanced nutrition: per bearing tree apply about 50 kg FYM, 500 g N, 250 g P₂O₅ and 500 g K₂O in two splits (June–July and October) because weak, under-fed trees rot and fall more easily.  
+6. Avoid mechanical injuries from ploughs or goats; if wounds occur, disinfect with 0.25 % copper oxychloride solution and then seal with Bordeaux paste.  
+7. Never heap soil, mulch or fertilizers right against the trunk—keep at least a 15 cm gap so the collar stays dry and airy.  
+8. For areas with strong winds, prune the tree after harvest to keep the canopy low and balanced, and tie young trees to a strong stake.  
+9. In heavy rainfall zones, graft the scion on Phytophthora-tolerant rootstocks like Vellaikolumban if you plant new orchards.  
+10. Inspect trees monthly; early detection of soft, dark, foul-smelling patches allows quick treatment and saves the whole tree."
+4,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: What are alternative crops to cowdung?","Cow-dung is only one kind of organic manure; if you don’t have enough of it, you can feed the soil with other materials that give similar or even higher nutrient value. 1) Poultry litter (chicken droppings) contains about twice as much nitrogen as cow-dung, so apply 1.5–2 t/acre well-composted and mixed into the top 10 cm of soil. 2) Goat or sheep manure is rich in nitrogen and potassium; use 2–3 t/acre after 2–3 months of heaping and turning so it loses excess heat and salts. 3) Vermicompost made with earthworms from crop residues delivers balanced N-P-K and improves soil structure; 1 t/acre before sowing is enough for most field crops. 4) Press cakes of neem, groundnut or mustard left after oil extraction supply slow-release nitrogen and some phosphorus; broadcast 100–150 kg/acre and lightly incorporate. 5) Green-manure crops like dhaincha (Sesbania), sunhemp or cowpea can be sown, grown for 40–45 days, and ploughed under to add 4–6 t/acre of fresh biomass and about 40–60 kg N/ha. 6) Crop-residue compost (made from straw, husk, vegetable waste) put at 3–4 t/acre adds organic carbon and micronutrients. 7) If no organic source is available, balanced chemical fertilisers (for example 40 kg urea, 25 kg SSP, 15 kg MOP per acre for cereals) can supply nutrients, but always add at least some organic matter to keep soil lively. 8) Whatever option you choose, compost it well, keep moisture suitable, and avoid applying fresh, raw manure directly to standing crops to prevent burning and disease."
+5,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: What are the effects of marigold as a trap crop?","Marigold works like a “sacrificial” plant that pulls pests away from your main crop and can even kill some soil-borne enemies. 1) Most Tagetes marigold varieties release chemicals (thiophenes) from their roots that suppress or kill root-knot nematodes, reducing galling on nearby vegetables like tomato, okra and brinjal. 2) The bright flowers attract sap-sucking insects and fruit borers (e.g., Helicoverpa), so fewer of these pests settle on your cash crop; you can then hand-pick or spray only the marigold rows. 3) Because pests concentrate on the marigold border, you use less pesticide overall and avoid spraying the food crop itself. 4) Marigold blooms also provide nectar and pollen that support ladybird beetles, hoverflies and parasitic wasps, increasing natural pest control. 5) The strong scent confuses some insects such as whiteflies and aphids, lowering their landing rate on neighbouring plants. 6) After 45–60 days you can cut and incorporate marigold biomass into the soil to add organic matter and keep suppressing nematodes. 7) Keep a 1:10 ratio—one row of marigold for every 10 rows of the main crop, or surround the field with a 45–60 cm wide strip—for best results."
+6,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: How do I prevent leaf blight in chili?","1. Use certified, disease-free seed or resistant/tolerant varieties such as Arka Lohit, Arka Abhir, or Suraj to keep the disease out of your field from the start.  
+2. Before sowing, treat the seed with Thiram or Captan @ 3 g per kg seed (or Trichoderma harzianum @ 4 g per kg) to kill any blight fungus present.  
+3. Raise seedlings on a raised, well-drained nursery bed, and drench the bed every 7–10 days with a 0.2 % solution of copper oxychloride to stop early infection.  
+4. Transplant only healthy seedlings at a spacing of about 45 cm × 45 cm so that air moves freely and leaves dry quickly after rain or irrigation.  
+5. Avoid overhead or late-evening irrigation; instead, use furrow or drip irrigation in the morning to stop water from splashing spores onto the leaves.  
+6. Remove and burn the first infected leaves or plants you see, and keep the plot free of last season’s crop residues and weeds that harbour the blight pathogen.  
+7. Apply 2–3 sprays of Mancozeb + Metalaxyl (e.g., Ridomil Gold) or copper oxychloride @ 2.5 g per litre at 10-day intervals when weather is warm and humid, starting as soon as you notice the first spots.  
+8. Between chemical sprays, you can alternate with a biocontrol product containing Trichoderma or Bacillus subtilis to slow resistance build-up and lower costs.  
+9. Always mix sticker/spreader (e.g., 1 ml liquid soap per litre) with sprays, and follow the pre-harvest interval (usually 5–7 days) to keep residues off the harvested chillies."
+7,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: Can the quantity of grain be increased in the absence of green fodder?  ","No.  Ruminant animals (cow, buffalo, goat) must have some bulky roughage in the ration to keep the rumen working; only increasing grain can cause acidosis, bloat and fall in milk-fat or even death.  
+If fresh green fodder is not available, give 4–5 kg dry fodder (wheat/paddy straw, hay, stover) for every 1 kg concentrate mixture you offer.  
+Enrich dry fodder by chopping it finely and, if possible, treating it with 4 kg urea + 40 kg water per 100 kg straw and covering it for 21 days; this raises its protein value.  
+Silage made from maize, sorghum or Napier cut at the milk stage is another good substitute for greens and can be stored for 6–8 months.  
+You can also supplement with tree leaves (subabul, babul, ber), hydroponic fodder, or 1–2 kg Azolla per animal per day.  
+Do not exceed roughly 1 kg concentrate per 2–2.5 kg milk produced, and always mix 50–100 g mineral mixture plus a handful of common salt in the daily concentrate.  
+Provide plenty of clean water.  
+By keeping this balance of roughage and concentrate, the animals stay healthy and milk yield remains steady until fresh green fodder is again available."
+8,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: How do I to recognize milk fever in cows?  ","1. Milk fever (low blood calcium) usually strikes high-yield, older cows within 1–3 days after calving.  
+2. First signs are loss of appetite, restlessness and fine muscle tremors in the shoulders, flanks or face.  
+3. The ears, muzzle and legs feel unusually cold and the eyes look dull because body temperature drops.  
+4. The cow stands with a stiff, shaky gait, often with her hind feet close together and her head turned toward her flank.  
+5. Very soon she collapses onto her chest, then rolls onto her side and cannot rise.  
+6. While down she keeps her head bent along her body, the rumen stops moving, little dung is passed and gas may build up, causing bloat.  
+7. Breathing becomes slow, the heartbeat is weak and the cow may grunt with every breath.  
+8. Without quick treatment (intravenous or subcutaneous calcium from a veterinarian) she can slip into a coma and die within 6–12 hours.  
+9. Any freshly calved cow that is cold, shaky or unable to stand should be assumed to have milk fever and treated immediately."
+9,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: Can animal feed be made at home?  ","Yes, you can prepare good-quality animal feed at home by mixing locally available grains, pulses, oil-cakes, minerals and green fodder in the right proportions. Start with an energy source such as crushed maize, sorghum or broken rice (50–60 % of the mix). Add a protein source like groundnut cake, soybean meal or cottonseed cake (20–30 %). Include a small amount of bran or husk for fibre (5–10 %). Mix in a mineral–vitamin premix and common salt (about 1 % each) to prevent deficiencies; these are inexpensive and sold at most agri-input shops. Grind or crush all ingredients so that particles are uniform and easy for animals to digest. Store the feed in a clean, dry, airtight bin; use it within 30 days to avoid mould. Always introduce the new feed gradually over one week so animals adjust without digestive upsets."
+10,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: How do I to choose a suitable breed of cow?  ","1. First decide your main goal: high milk, draught power, or both—your purpose guides the breed.  
+2. If you have good year-round fodder, shade, clean water and nearby veterinary services, choose proven crossbreds such as Holstein-Friesian × Gir or Jersey × Sahiwal, which can give 15–20 litres of milk per day.  
+3. If your area is very hot, disease-prone or fodder is limited, hardy indigenous breeds like Gir, Sahiwal, Tharparkar or Red Sindhi are safer; they yield 8–12 litres but fall sick less and conceive easier.  
+4. Check feed demand: a high-yielding crossbred needs about 25–30 kg green fodder, 4–5 kg concentrate and plenty of water daily, while indigenous cows manage with roughly two-thirds of that.  
+5. Examine the individual animal—she should have a large, well-attached udder, straight teeth, bright eyes, strong legs and no nasal discharge or overgrown hooves.  
+6. Ask to see milk-yield or lactation records; if none exist, watch her being milked and test milk yield yourself.  
+7. Select cows that calve every 12–14 months; long calving intervals mean hidden fertility problems.  
+8. Make sure vaccinations (FMD, HS, Brucellosis) and deworming are up to date, and quarantine the new cow for 2 weeks before mixing with your herd.  
+9. Always buy from a reliable government farm, certified breeder or a farmer you trust, and insist on a bill of sale and health card.  
+10. Finally, match the breed to your resources rather than only to headline milk numbers—healthy, manageable cows give better profit than fragile high-producers."
+11,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: What are some regenerative farming strategies I can try?","1. Keep living roots in the soil year-round by sowing short-duration cover crops such as cowpea, sunhemp, or dhaincha after harvest; they add organic matter and fix nitrogen for the next crop.  
+2. Rotate crops so that cereals (e.g., maize, sorghum) are always followed by legumes (e.g., pigeon-pea, chickpea); this breaks pest cycles, improves soil fertility, and spreads your risk.  
+3. Apply well-decomposed farmyard manure or vermicompost at 2–5 t/acre every season instead of relying only on chemical fertilisers; it feeds soil microbes and improves moisture-holding capacity.  
+4. Leave crop residues as mulch or add rice straw/sugar-cane trash on the soil surface rather than burning; a 5 cm mulch layer reduces evaporation by up to 30 % and suppresses weeds.  
+5. Minimise deep ploughing—use shallow tillage or a roto-weeder to disturb only the top 5–7 cm; this preserves earthworms and prevents soil erosion.  
+6. Incorporate green manures like sunhemp at 40–50 kg seed/acre, ploughed in at 45 days, to release 40–60 kg of nitrogen and increase soil carbon.  
+7. Practise Integrated Pest Management: install pheromone traps, release Trichogramma cards, and spray neem seed kernel extract (5 %) before using synthetic pesticides.  
+8. Plant border strips or intercrops of marigold, sesame, or coriander around the main crop to attract beneficial insects and diversify farm income.  
+9. If you have space, add nitrogen-fixing trees such as Gliricidia or Subabul on field boundaries; regular lopping provides fodder and leaf mulch without shading the crop."
+12,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: What to do if my cows are weak?  ","1. First, look at what the animals eat: give each adult cow 25-30 kg good green fodder (like napier, maize or lucerne) plus 4-5 kg dry fodder and 1 kg oil-cake or commercial cattle feed every day.  
+2. Always mix 50–75 g mineral mixture and a pinch of common salt in the concentrate; lack of minerals is a common cause of weakness.  
+3. Make sure they have clean water all day; a cow needs at least 40–60 litres daily for proper digestion and milk production.  
+4. Deworm all cattle every 6 months with albendazole or fenbendazole (dose as per the vet) because internal parasites steal nutrients and cause weight loss.  
+5. Check for external parasites like ticks; if present, spray the animal and shed with 1–2 % diazinon or cypermethrin solution.  
+6. Provide shade and good ventilation; heat stress lowers feed intake and makes cows look dull.  
+7. Examine the teeth of older animals—worn teeth reduce the ability to chew fodder; such cows need softer, chopped feed.  
+8. If weakness comes suddenly, look for fever, diarrhoea, or reduced milk and call a veterinarian immediately for blood tests; diseases like theileriosis, trypanosomiasis or FMD need quick treatment.  
+9. Vaccinate regularly (FMD every 6 months, HS once a year, BQ and Brucellosis as advised) to prevent disease-related weakness.  
+10. Keep records of feed given, milk yield and body condition; this helps you and the vet spot problems early and adjust the ration or treatment."
+13,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: What is the status of milk production in India? ","India is today the world’s largest milk-producing country, supplying roughly 220–225 million tonnes of milk each year—about one-quarter of all the milk produced in the world. Annual output has been rising steadily by 5–6 percent, mainly because smallholder farmers like you keep one or two cross-bred cows or buffaloes and sell surplus milk to village collection centres. On average, every Indian now has about 450–460 grams of milk available per day, compared with only 178 grams in 1991. Uttar Pradesh, Rajasthan, Madhya Pradesh, Gujarat, Andhra Pradesh, Haryana and Punjab are the top contributors, but nearly every state is expanding production. Demand is also climbing due to population growth, urbanisation and a fast-growing market for packaged ghee, curd, paneer and flavoured milk. The government is supporting the sector through schemes such as Rashtriya Gokul Mission, National Dairy Plan and Animal Husbandry Infrastructure Development Fund, which help improve breeds, fodder supply, vaccination and chilling facilities. However, productivity per animal is still low compared with global standards, so better feeding, regular de-worming, vaccination and use of proven semen can give you higher yields. If you have surplus milk, tying up with a local dairy cooperative or private processor ensures regular payments and access to veterinary services. In short, India’s milk sector is strong and growing, and with good animal care and market linkages, smallholders can continue to benefit from this “white revolution.”"
+14,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: How do I control yellow pests in paddy fields? ","1. First be sure the “yellow pest” is the yellow stem-borer: the adult is a small yellow moth and its creamy-yellow caterpillar bores inside the rice tiller, giving “dead-heart” (centre leaf dries) in early crop and “white-ear” (empty panicle) later.  
+2. After harvest, plough or burn stubbles and destroy volunteer ratoons so the borer cannot survive in the field.  
+3. Sow and transplant as early and as uniformly as possible with your neighbours; scattered late fields keep the insect alive for longer.  
+4. Do not over-use urea; split the recommended nitrogen dose into 3–4 parts because very lush plants attract more borers.  
+5. At 15–20 days after transplanting, place 4–5 pheromone traps per acre (10–12 per hectare) to monitor and mass-trap the male moths; replace lures every 20–25 days.  
+6. Release one Trichogramma japonicum egg-parasitoid card per acre (2.5 cards/ha) at 30, 37 and 44 days after transplanting; pin the card under the leaf in the morning.  
+7. Keep the field flooded (2–3 cm) and broadcast any granular insecticide only on standing water for good distribution.  
+8. When 1–2% dead-heart tillers or 5 moths/trap/night are seen, apply cartap hydrochloride 4G at 10 kg/acre (25 kg/ha) or fipronil 0.3G at 12 kg/acre (30 kg/ha).  
+9. For spray treatment, you may mix 60 ml chlorantraniliprole 18.5 SC or 100 g flubendiamide 20 WG in 15 litres water and spray one tank per acre, keeping nozzle directed at the tiller bases.  
+10. Rotate chemicals each season, avoid spraying after 5 pm when Trichogramma is active, and always use gloves and mask for your own safety."
+15,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: What is the best goat feed?  ","There is no single “best” feed; healthy goats need a balanced daily ration made up of three parts: green fodder, dry fodder and a small amount of concentrate plus minerals. 1) Offer plenty of good-quality green fodder such as CO-4/CO-5 napier-bajra hybrid, lucerne (alfalfa), hedge lucerne, subabul or gliricidia; these supply protein and vitamins. 2) Give dry fodder (paddy straw, maize stover, groundnut haulm, arhar stalk, etc.) so the rumen works well; mix about 30–40 % dry fodder with 60–70 % green fodder by weight. 3) Provide concentrates—broken maize/sorghum/pearl millet, wheat/ rice bran and an oil-cake (groundnut, mustard or sesame)—at about 200–300 g per adult goat per day (up to 1 % of body weight for kids, pregnant or lactating does). Always add 1 % mineral mixture and a fistful of common salt or a salt lick to prevent deficiency diseases, and keep clean water available all day. Cut fodder into small pieces (3–5 cm) to reduce waste, and avoid sudden feed changes. Do not feed wilted or mouldy leaves of subabul, mahua, lantana or other toxic plants. Allow browsing on shrubs or tree leaves if possible, but tether or rotationally graze to protect your fields and prevent parasite build-up. By following this simple mix—good greens, some dry roughage, limited concentrate, minerals and water—you will get better growth, higher milk, and healthier goats."
+16,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: How do I prevent cotton bollworm?","1. Choose a Bt cotton hybrid that is still giving good field control in your area, sow on time (by mid-May in north India, by June in central and south zones) and avoid continuous cotton on the same land for more than two years.  
+2. Keep the field clean of alternate host weeds (parthenium, tomato, chickpea residues) and plant 2–3 rows of marigold or pigeon-pea as a trap crop around the plot.  
+3. Install 5 pheromone traps per hectare; if you catch more than 8 moths per trap per night, or if field scouting shows 5 small larvae per 20 plants, prepare to act.  
+4. At egg stage, release the egg-parasitoid Trichogramma chilonis at 50,000 adults per hectare every 7–10 days, three times.  
+5. Spray neem seed-kernel extract 5 % or neem oil 2 ml/L when eggs/early larvae appear; it repels and slows the pest without harming natural enemies.  
+6. For heavier infestation, spray HaNPV (Helicoverpa NPV) 250 LE or 1.5 × 10¹² PIB per hectare in the late afternoon mixed with 0.1 % jaggery and 0.1 % sticker.  
+7. If larvae exceed the economic threshold even after these steps, use one selective insecticide: emamectin benzoate 5 SG 220 g/ha, indoxacarb 14.5 SC 500 ml/ha, spinosad 45 SC 75 ml/ha, or chlorantraniliprole 18.5 SC 150 ml/ha, ensuring good spray coverage.  
+8. Always rotate insecticides from different groups and avoid more than two sprays of any single group in one season to delay resistance.  
+9. Pick and bury damaged bolls, and after harvest plough under crop residue to kill pupae in the soil.  
+10. Finally, keep field records of moth catches, sprays and costs; this will help you fine-tune the bollworm management plan each season."
+17,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: What is the best fertilizer when planting?","There is no single “best” fertilizer for every field; the right one depends on your soil and the crop you are planting. First, if possible, do a simple soil test (many Krishi Vigyan Kendras and private labs offer this for a small fee) so you know how much nitrogen (N), phosphorus (P) and potassium (K) are already present. For most cereals like wheat or maize, a balanced basal dose of about 60 kg N, 40 kg P₂O₅ and 20 kg K₂O per acre works well; this can be supplied with 130 kg urea, 100 kg DAP and 35 kg MOP, applied just before or at sowing and mixed into the topsoil. For pulses, reduce nitrogen (they fix their own) and give more phosphorus: about 20 kg N and 40 kg P₂O₅ per acre, often met with 90 kg SSP and 45 kg urea. Always add 1–2 t/acre of well-decomposed farmyard manure or compost; it improves soil structure and supplies micronutrients. If your soil-test report shows zinc or sulfur deficiency, mix 10 kg zinc sulfate or 20 kg gypsum per acre with the basal fertilizer. Place chemical fertilizers 5–7 cm away from the seed to avoid burning but close enough for young roots to reach. Finally, split-apply the remaining nitrogen (usually half) in two equal doses at 20–25 days and 40–45 days after sowing to reduce losses and boost yield."
+18,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: How much cow dung should be applied per hectare?","For ordinary field crops like wheat, paddy or maize, apply 8–10 tractor-trolley loads (about 10–12 tonnes) of well-rotted cow dung per hectare.  
+If you are growing nutrient-hungry crops such as vegetables, sugarcane or banana, raise the dose to 20–25 t/ha.  
+Always use dung that has been heaped under shade for at least 2–3 months so it is fully decomposed and free of weed seeds.  
+Broadcast the manure uniformly over the plot and incorporate it 10–15 cm deep with a plough or rotavator 3–4 weeks before sowing or transplanting.  
+On very sandy or degraded soils you can add 25 % more manure to improve organic carbon and water-holding capacity.  
+If a recent soil test shows low nitrogen, mix 1 kg single super phosphate or 500 g rock phosphate with every quintal of dung to cut nitrogen loss and add extra P.  
+Keep the dung slightly moist but not water-logged while it is decomposing to preserve nutrients.  
+Remember that well-rotted cow dung supplies roughly 0.5 % N, 0.2 % P₂O₅ and 0.5 % K₂O, so chemical fertiliser may still be needed according to soil-test recommendations.  
+Avoid applying fresh, un-decomposed dung—it ties up nitrogen, heats the soil and can spread pathogens.  
+Finally, rotate the manure application area each season to build up soil health evenly across the farm."
+19,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: White mold is developing on my mushrooms, what are potential solutions?  ","1. The fluffy white growth is usually a contaminant mold (often Trichoderma or cob-web mold) that appears when temperature, moisture or hygiene is not right.  
+2. First, remove and bury or burn all infected bags/trays at least 50 m from the shed so the spores do not spread.  
+3. Drop the room humidity to about 80–85 % and increase air movement with fans or by opening vents; mold loves still, wet air.  
+4. Stop watering for a day, then resume only as a very fine mist when the surface just begins to dry—never let water pool.  
+5. Lightly dust common salt or spray 5 g baking-soda + 5 g slaked-lime in 1 litre water on early patches; if the mold persists, spray Carbendazim 0.05 % (0.5 g/l) on the casing before pins appear.  
+6. Keep temperature in the recommended band (Button: 23–25 °C for spawn run, 16–18 °C for cropping; Oyster: 24–28 °C); higher heat favours mold.  
+7. Maintain the casing pH near 7.2–7.6 by mixing 1 % chalk or lime—mold dislikes a slightly alkaline surface.  
+8. Always pasteurise straw/compost at 60–65 °C for at least 6 hours and use certified spawn; disinfect hands, tools and floors with 1 % bleach or 2 % formalin.  
+9. After each crop, sweep out debris and wash the room thoroughly before loading the next batch."
+20,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: How many types of onions are there and what are there benefits?  ","Farmers usually deal with five main market types of onions: 1) yellow-brown (also called “pale”), 2) red, 3) white, 4) green/spring onions, and 5) shallots (small multiplier bulbs).  
+Yellow onions make up about 70 % of total demand; they store 4–6 months, handle transport well, and fetch steady prices for off-season sales.  
+Red onions have high anthocyanin pigments, giving them strong colour, sharp taste and good export demand in the Gulf and South-East Asia; they also tolerate high temperatures and can be grown in the kharif season.  
+White onions have mild flavour, higher sugar, and are preferred for dehydration industries; they can give an extra value if you have access to a dryer or sell to snack/noodle processors.  
+Green or spring onions (pulled before full bulb formation) mature in 45–50 days and let you get quick cash from the same field before a main crop like chilli or okra.  
+Shallots/multiplier onions produce many small bulbs from one set; they fetch a premium in pickling and gourmet markets and are more resistant to thrips and purple blotch.  
+Nutritionally, all onion types supply vitamin C, sulphur compounds and flavonoids that help lower blood pressure and act as natural preservatives in chutneys.  
+Growing different types staggers harvest times, spreads risk of price crashes, and lets you target multiple buyers—wholesalers, dehydrators, pickle makers and fresh markets.  
+Select cultivars recommended by your state agri-university (e.g., Bhima Super for red, Agrifound White-2 for white) and use well-cured seed or sets to get the full benefit of each type."
+21,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: How much animal feed should be given to milk cows?  ","1. A milking cow needs feed equal to about 2.5–3 % of her body-weight as Dry Matter (DM) every day; for an average 400 kg cow this is roughly 10–12 kg DM.  
+2. Supply this DM through about 20–25 kg good green fodder OR 6–7 kg dry fodder (hay/straw) plus 4–5 kg concentrates.  
+3. In addition, give 1 kg of concentrate (oil-cake, grain mix) for every 2½–3 kg of milk she produces; e.g., a cow giving 10 kg milk needs about 3–4 kg extra concentrate.  
+4. Always include 50–60 g mineral-mixture and a handful of common salt daily to prevent deficiency diseases.  
+5. Provide clean drinking water freely; a lactating cow may drink 40–60 litres a day, even more in hot weather.  
+6. Feed should be offered in 2–3 meals, and roughage first to stimulate chewing, followed by concentrates to improve digestion and milk yield."
+22,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: How much feed is needed for a rural cow?  ","1. A cow needs roughly 2½–3 % of its body-weight every day as “dry-matter” feed.  
+2. Most village cows weigh about 300 kg, so aim for 7–9 kg of dry-matter daily.  
+3. This can be supplied by giving 20–25 kg fresh green fodder (e.g., hybrid napier, maize, cowpea) plus 4–5 kg dry fodder (paddy straw, wheat bhusa).  
+4. For cows that are milking, add concentrate mixture at 1 kg for every 2 litres of milk produced, on top of 2 kg concentrate for body maintenance.  
+5. Good home-made concentrate can be 40 % cereal (maize/wheat), 30 % oil-cake, 10 % bran, 10 % crushed pulses, 7 % mineral mix and 3 % salt.  
+6. Always offer 50–60 litres of clean water per day; without water the cow will not eat enough feed.  
+7. Supply 50 g mineral mixture and a pinch of common salt daily to avoid infertility, weak calves and milk fever.  
+8. In late pregnancy, raise the concentrate by 1 kg and give more legume fodder for stronger calves.  
+9. Chop fodder into small pieces to reduce wastage and improve digestion.  
+10. Observe the cow’s body condition: visible ribs mean increase feed; excess fat means reduce concentrates."
+23,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: What should be fed to a pregnant cow?  ","1. Give the cow plenty of good-quality roughage every day—10-12 kg of green fodder (such as berseem, lucerne, or hybrid napier) plus 4-5 kg of clean, dry fodder (wheat or paddy straw; if possible, treat straw with urea-molasses for better nutrition).  
+2. Along with the roughage, feed 1 kg of a home-mixed or commercial concentrate (16-18 % protein) for maintenance; increase this concentrate gradually to about 2 kg/day during the last 2–3 months of pregnancy so the growing calf and the cow both get enough energy.  
+3. A good concentrate mix can be: crushed maize/barley 35 kg, wheat bran 35 kg, mustard or ground-nut cake 25 kg, mineral mixture 2 kg, and common salt 3 kg.  
+4. Supply 50–60 g of a balanced mineral mixture and 30 g common salt daily; these prevent milk fever and weak calves.  
+5. Provide 50–70 litres of clean, cool water each day, because a pregnant cow’s blood volume and rumen activity are high.  
+6. Offer 30–40 ml of a vitamin-A+D3+E preparation once a month if green fodder is scarce.  
+7. Avoid mouldy, insect-infested, or very high-urea feeds; they can cause abortion or off-feed problems.  
+8. Keep the diet and feeding time consistent, and do not let the cow become too fat or too thin—aim for a moderate body condition so calving is easy and milk production starts well."
+24,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: How do I manage water in rice cultivation?  ","1. Level the field and build firm bunds first, so water spreads evenly and does not leak away.  
+2. After puddling and transplanting, keep just 2–3 cm of water for about 14 days to help the young plants settle and to smother early weeds.  
+3. From the end of this establishment phase until 10 days before panicle initiation, practise Alternate Wetting and Drying (AWD): let the water drain until hairline soil cracks appear or a perforated tube shows the water table has fallen 15 cm, then irrigate again to 5 cm depth.  
+4. At the critical stages—panicle initiation, booting, flowering and early grain filling—maintain a shallow (5 cm) layer of water or at least keep the soil continuously saturated.  
+5. Drain the field 7–10 days before harvest to speed ripening, reduce lodging and make threshing easier.  
+6. Combine shallow flooding with one timely hand weeding or mechanical weeder pass (around 20–25 days after transplanting) to save both water and labour.  
+7. Plug leaks in canals, field channels and bund cracks immediately; even small leaks can waste thousands of litres.  
+8. If water is scarce, choose short-duration or drought-tolerant varieties, transplant 18–22-day-old seedlings, and space hills at 20 × 15 cm with 2–3 seedlings per hill.  
+9. AWD typically cuts water use and pumping costs by 25–30 % without lowering yield, and often improves root health by allowing brief soil aeration.  
+10. Keep a notebook of irrigation dates, field moisture observations and final yield so you can fine-tune the schedule every season."
+25,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: What type of beans should I plant?","“Bean” covers many pulse crops; choose the one that matches your land, water and market.  
+1. If you farm in the Kharif (rainy) season on light to medium, well-drained soils, green gram (mung bean) varieties such as SML-668 or Samrat give a 60–70 day harvest, tolerate short dry spells and fetch a good local price.  
+2. On black or medium-deep soils with 150–200 mm rainfall, pigeon pea (tur/arhar) varieties like ICPL-8863 or BDN-711 are better; they withstand waterlogging and can be intercropped with cotton, sorghum or soybean.  
+3. Where irrigation is available in the rabi season, chickpea (gram) varieties JG-11 or PBG-5 yield 18–22 q/acre and fix plenty of nitrogen for the next crop.  
+4. For cooler hills or winter plains with assured water, French bean (rajmah) varieties Contender or Arka Sharath give high pod yields in 70–80 days.  
+5. Very sandy soils and drought? Choose cowpea (lobia) varieties C-152 or Kashi Kanchan; they mature in 65 days and need only 250 mm rain.  
+6. Always select certified seed, treat with Rhizobium + Trichoderma, and sow on raised beds at the recommended spacing to avoid root rots.  
+7. Finally, visit the nearest Krishi Vigyan Kendra to confirm which varieties are performing best this season in your specific district."
+26,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: What precautions should farmers take to prevent waterlogging?","1. Level your field with a laser or wooden level so that water spreads evenly and does not collect in low spots.  
+2. Before sowing, open shallow surface drains (30–40 cm deep) every 20–30 m across the slope to let excess rain or irrigation water flow out quickly.  
+3. If the land is very flat or heavy-clay, dig one main collector drain at the lowest edge so the surface drains can empty into it.  
+4. Plant on raised beds or ridges—10–20 cm high for vegetables and 30 cm for sugarcane or maize—so the crop roots stay above standing water.  
+5. Keep field bunds well-compacted and cut small spillways in them to guide runoff safely to the drains instead of letting it break the bund anywhere.  
+6. Avoid over-irrigation: give water only when the top 5–7 cm soil layer has begun to dry, and use alternate-furrow or drip methods if possible.  
+7. Add ample organic matter (compost or FYM) and gypsum in sodic soils; this improves soil structure and helps water infiltrate rather than pond.  
+8. Clean drains and remove weeds, silt and crop residues after every heavy rain so water can keep moving out.  
+9. In chronically wet patches, grow short-duration or waterlogging-tolerant varieties (e.g., Swarna Sub1 rice, water-tolerant pigeon-pea) while you improve drainage."
+27,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: What are the common diseases that affect cattle?","1. Foot-and-Mouth Disease (FMD) is widespread; it causes fever, blisters in the mouth and on the feet, loss of appetite, and can kill young calves if not vaccinated against.  
+2. Hemorrhagic Septicaemia (HS) appears mainly in the monsoon, bringing high fever, throat swelling, breathing difficulty and often sudden death.  
+3. Black Quarter (BQ or black-leg) strikes growing animals (6-24 months), producing a hot, painful swelling in the hind leg and rapid death within 24–48 hours.  
+4. Mastitis is an udder infection in lactating cows that reduces milk yield and quality; the udder becomes hot, hard and painful.  
+5. Brucellosis causes abortions in late pregnancy and retained placenta, and the infection can pass to people handling aborted material.  
+6. Lumpy Skin Disease shows firm skin nodules, fever and enlarged lymph nodes, spreading quickly through biting insects if animals are unvaccinated.  
+7. Tick-borne illnesses such as Theileriosis, Babesiosis and Anaplasmosis give high fever, anemia and weakness; regular tick control and specific vaccines prevent heavy losses.  
+8. Internal parasites (roundworms, liver flukes) and chronic diseases like Bovine Tuberculosis or Johne’s Disease silently reduce growth and milk, so follow a de-worming schedule and cull persistent reactors.  
+9. Good disease control depends on timely vaccination (FMD, HS, BQ, LSD, Brucella, Theileria), strict hygiene during milking, regular de-worming and tick dipping, and quick isolation of any sick animal.  
+10. Keep herd records and call a veterinarian at the first sign of fever, swellings, abortions or drop in milk to prevent these common diseases from spreading through your cattle."
+28,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: How can animals be protected from infectious diseases?  ","1. Get all animals vaccinated on time for the common local diseases (e.g., FMD, PPR, HS), and keep the vaccination records.  
+2. Buy new animals only from reliable, disease-free farms and keep them separated from your herd for at least 2 weeks to watch for sickness before mixing.  
+3. Clean sheds daily, remove manure, and keep feed troughs and water containers washed so that germs and parasites cannot multiply.  
+4. Provide plenty of clean drinking water and a balanced diet, because well-nourished animals fight infections better.  
+5. Control external parasites and disease‐spreading insects by regular spraying or dusting and by draining standing water near the sheds.  
+6. Rotate grazing areas and avoid over-stocking so that worm eggs and disease organisms in the pasture die before animals return.  
+7. Deworm animals as advised by a veterinarian and send fecal samples once or twice a year to check for internal parasites.  
+8. Immediately separate and treat any animal that shows fever, coughing, diarrhea, or wounds; call a veterinarian if symptoms last more than a day.  
+9. Disinfect equipment, footwear, and visitors’ hands before they enter the shed, and do not allow sharing of needles or other tools between animals without sterilizing them."
+29,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: What causes dandruff in onions?  ","“Dandruff” on onion bulbs is the black, dust-like coating that appears between the dry outer scales.  
+1. It is caused by a storage fungus called Aspergillus niger, often referred to as the black-mould fungus.  
+2. The fungus enters through tiny wounds or through necks that have not dried (cured) properly.  
+3. Temperatures above about 30 °C and high humidity in the field or store encourage the mould.  
+4. Bulbs that are harvested too early, roughly handled, or bruised during transport are most at risk.  
+5. Cure onions 7–10 days in the field or on raised racks until the necks are tight and outer skins turn paper-dry.  
+6. Handle bulbs gently and sort out any damaged or diseased ones before storage.  
+7. Store only well-cured bulbs in a cool (below 25 °C), dry, well-ventilated place or in mesh bags; keep relative humidity below 70 %.  
+8. A preventive spray of a broad-spectrum fungicide such as mancozeb 10–15 days before harvest can cut down field infection.  
+9. By proper curing, careful handling, clean sorting and dry, cool storage, you can largely avoid “dandruff” and keep onions market-ready for longer."
+30,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: What are the main symptoms of common parasitic diseases found in animals?  ","Look for loss of body weight or stunted growth even though the animal is eating well; worms and other internal parasites steal the feed’s nutrients.  
+Frequent soft or watery dung, sometimes with mucus or blood, points to stomach- or intestinal-worms or coccidia.  
+A pale colour of eye membranes, gums or inside the ears (instead of healthy pink) shows anaemia caused by blood-sucking parasites such as Haemonchus worms, ticks or lice.  
+Swelling under the lower jaw (“bottle-jaw”) in goats and sheep is a classic sign of severe worm infection or liver flukes.  
+Coughing, rapid breathing or nasal discharge may appear when lungworms are present.  
+A rough, dull hair-coat, itching, excessive scratching or bald patches indicate external parasites like mites, lice or fleas.  
+Reduced milk yield, fewer eggs, poor fertility and general weakness are common in all heavy parasite loads.  
+In poultry, ruffled feathers, drooping wings and blood-streaked droppings often signal coccidiosis or roundworms.  
+If two or more of these signs are seen, collect dung samples for a worm-egg count or consult the vet to choose the right de-wormer or spray."
+31,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: How to treat lameness in animals?  ","1. First separate the lame animal from the rest of the herd so it can rest and you can observe it closely.  
+2. Wash the affected foot or leg with clean water and a mild disinfectant (2-3 % potassium permanganate or Dettol) to remove mud and check for wounds, stones, thorns or over-grown hoof.  
+3. If you see an embedded object or over-grown hoof, gently remove the object or trim the excess hoof with a sharp, clean hoof-knife, then apply povidone-iodine or blue spray to prevent infection.  
+4. For swelling, soak the foot daily for 5–10 minutes in a warm footbath containing 5 % copper sulphate or zinc sulphate; this helps kill foot-rot bacteria.  
+5. Give the animal a clean, dry standing area; wet, dirty floors keep the infection alive.  
+6. Offer balanced feed with extra minerals, especially calcium, phosphorus and 1 % salt, and add a commercial mineral-mixture (50–60 g/day for cattle, 20–30 g for goats/sheep) to speed bone and hoof healing.  
+7. If the animal has fever, foul-smelling discharge, deep wounds or cannot bear weight, call a veterinarian; the vet may need to give a long-acting oxytetracycline or penicillin-streptomycin injection and an anti-inflammatory pain-killer.  
+8. Keep hooves trimmed every 3–4 months and run the herd through a disinfectant footbath once a fortnight during the rainy season to prevent future cases.  
+9. Record any recurring lameness—frequent cases may point to mineral deficiency, poor flooring or contagious foot-rot that needs a broader herd treatment plan."
+32,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: How can soil health be improved with crops?","1. Rotate your cereal crops (rice, wheat, maize) with legumes such as pigeon pea, cowpea or green gram; the nodules on legume roots fix free nitrogen from the air and leave it in the soil for the next crop.  
+2. Sow a quick‐growing green-manure crop like sunnhemp or dhaincha during any fallow period, then plough it under when still tender to add fresh organic matter and loosen the soil.  
+3. After each harvest, leave crop residues on the surface or incorporate them lightly instead of burning; this feeds soil microbes and improves moisture retention.  
+4. Apply well-decomposed farmyard manure or compost at 2–3 tonnes per acre every season to supply balanced nutrients and build humus.  
+5. Keep the soil covered year-round with either living mulch (e.g., cowpea between rows) or dry mulch (straw, leaves) to reduce erosion, maintain moisture and encourage earthworms.  
+6. Include deep-rooted crops like sorghum or pigeon pea once in a while; their roots create channels that enhance aeration and bring up nutrients from deeper layers.  
+7. Practice minimum or shallow tillage where possible, as excessive ploughing breaks soil structure and speeds up organic-matter loss.  
+8. By combining these practices—legumes, green manures, residue return, organic manure, mulching, deep-rooted crops and gentle tillage—you will steadily improve soil fertility, structure and water-holding capacity."
+33,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: What are some organic methods of controlling pests and diseases in bean crops?","1. Start with clean seed: select disease-free seed or varieties that are tolerant to rust and mosaic viruses, and solarise or hot-water treat saved seed.  
+2. Rotate beans with non-legume crops for at least two seasons; this breaks the life-cycle of soil-borne pests such as root-knot nematodes and wilt fungi.  
+3. Intercrop or border-plant marigold, coriander or maize; their smell and canopy confuse pod borer moths and whiteflies.  
+4. Every week inspect plants and hand-pick egg masses or larvae of pod borers and bean beetles; destroy them in soapy water.  
+5. Spray a 5 % neem seed kernel extract or commercial neem oil (3 ml per litre) on the underside of leaves every 7–10 days to repel sucking insects and caterpillars.  
+6. For caterpillars that escape, use Bacillus thuringiensis (Bt) dust or solution (1 g/litre) in the late afternoon; it kills only the larvae and is safe for natural enemies.  
+7. Release or conserve beneficial insects like Trichogramma wasps and ladybird beetles by avoiding broad-spectrum chemical pesticides and keeping some flowering plants nearby.  
+8. Remove and burn crop residues immediately after the final harvest to reduce carry-over of anthracnose, rust and bacterial blight spores.  
+9. Maintain good air flow by planting in rows 45 cm apart and avoiding excess nitrogen; this lowers humidity and disease pressure."
+34,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: What are the diseases that occur in rice crops?  ","1. The most damaging fungal disease is Blast—look for grey, diamond-shaped spots on leaves and a rotten “neck” just below the panicle.  
+2. Sheath blight shows oval, green-grey lesions on the leaf sheath that later join and can make the crop lodge.  
+3. Brown spot makes round, dark-brown spots on leaves and grains, and is worse when nitrogen or silica is low.  
+4. Stem rot starts at the water line, hollows the tiller base and weakens plants.  
+5. False smut replaces individual grains with greenish, powdery balls.  
+6. Bacterial Leaf Blight (BLB) scorches leaf tips and margins; the leaf looks as if it has been burnt from the tip backward.  
+7. Sheath rot gives a reddish-brown decay of the flag-leaf sheath and often leaves the panicle empty.  
+8. Virus diseases include Tungro (yellow-orange leaves and stunting), Grassy Stunt (many thin, grassy tillers) and Ragged Stunt (twisted, ragged leaves).  
+9. Most of these diseases spread through infected seed, leftover stubble, high humidity or insect vectors such as the green leaf-hopper.  
+10. Use resistant varieties, clean seed, proper spacing, balanced fertiliser and, when needed, timely fungicide or vector-control sprays to keep them in check."
+35,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: There is a lot of grass in the paddy, what are potential solutions?","1. Before transplanting, puddle the field well and keep 5-7 cm standing water for the first 3–4 weeks; most grass weeds cannot sprout under continuous water.  
+2. If you transplant rice, spray a pre-emergence herbicide such as pretilachlor 0.75 kg a.i./ha (or butachlor 1.5 kg a.i./ha) within three days of transplanting, using 500 L water/ha.  
+3. For dry/direct-seeded rice, apply pendimethalin 1 kg a.i./ha or pretilachlor 0.75 kg a.i./ha one day after sowing, then give a light irrigation.  
+4. Where grasses still appear, spray a post-emergence herbicide at 15–25 days after sowing/transplanting: bispyribac-sodium 25 g a.i./ha, cyhalofop-butyl 90 g a.i./ha, or penoxsulam 25 g a.i./ha when weeds are 2–4 leaf stage.  
+5. Drain water before spraying, mix herbicide in 300–400 L clean water/ha, and re-flood after 24–48 hours.  
+6. If you sow or transplant in straight lines, run a cono/rotary weeder at 20 and 35 days to uproot grasses and aerate the soil.  
+7. Hand-pull any big clumps of grass before they flower and set seed; remove them from the field.  
+8. After harvest, rotate rice with a short-duration pulse or oilseed crop to break the grass-weed life cycle.  
+9. Keep canals and bunds clean and use only well-decomposed manure or compost to prevent bringing in fresh weed seeds."
+36,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: Which onion seed is good?  ","1. First choose a variety that matches the season: for kharif (June–July sowing) use Agrifound Dark Red, Bhima Super, Arka Niketan or Baswant-780; for late-kharif/early-rabi (Aug–Sept) use N-53, Arka Pragati or Bhima Raj; for rabi (Oct–Dec) use Pusa Red, Bhima Kiran, Bhima Shakti or Pusa Riddhi.  
+2. Pick a colour that sells well in your local market (most mandis pay best for bright light-red bulbs 60–80 mm across).  
+3. Always buy CERTIFIED seed packed by ICAR-NHRDF, State Seed Corporation or a well-known private company, not loose seed from grain shops.  
+4. Check the tag: germination should be ≥70 %, physical purity ≥98 %, moisture ≤7 %, and the packet must be for the current season.  
+5. Hybrid seed (e.g., Nunhems 296, Seminis Swetha, Takii 130) costs more but can yield 10–15 % higher and bulbs are more uniform, so use it if you grow on ≥1 acre and can irrigate well.  
+6. Before sowing, treat the seed with 2 g Thiram or Carboxin + 1 g Carbendazim per kg seed to avoid damping-off and smut.  
+7. Sow fresh seed (not older than 1 year) at 8–10 kg/ha in a well-raised nursery to get sturdy seedlings.  
+8. Transplant 6-week-old seedlings when they are pencil-thick, spacing 15 × 10 cm for most open-pollinated varieties and 12 × 10 cm for hybrids.  
+9. Finally, good seed alone is not enough—timely irrigation, 100 kg N + 50 kg P2O5 + 50 kg K2O per hectare, and strict thrips/purple blotch control are essential to realise the full potential of the variety you choose."
+37,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: How to prepare a room to grow button mushrooms?  ","1. Choose a clean, well-roofed room (old poultry house, cattle shed, unused grain store, etc.) that can be closed tightly and is at least 2.2 m high, because button mushrooms need darkness, 24–25 °C for spawn run and 85–90 % humidity.  
+2. Repair cracks, plaster rough walls, and lay a smooth cement floor so that pests cannot hide and the room can be washed easily.  
+3. Fit doors and window openings with fine insect-proof mesh and make one small ventilator (10–15 cm pipe) that you can open or close to control fresh air without bringing in flies.  
+4. White-wash walls, ceiling and racks with a 10 % lime solution, then spray the entire room, floor and equipment with 2 % formalin (or 4 % bleaching powder) until dripping wet.  
+5. Close the room for 48 hours, then open and ventilate well for another day to remove chemical fumes—this “blanket disinfection” kills most competitor fungi, bacteria and insects.  
+6. Install two or three-tier wooden or metal racks 60 cm wide, leaving 45 cm between tiers, so compost trays/beds sit off the floor and air can circulate.  
+7. Keep a footbath of 2 % formalin at the entrance and insist that anyone entering dips footwear and washes hands with soap to avoid bringing in disease spores.  
+8. Provide a small water sprayer or fine-rose watering can inside the room; never splash water—only mist—to maintain high humidity without wetting the compost surface.  
+9. Place a thermometer and a cheap hygrometer inside; if temperature rises above 25 °C, open vents or run a small exhaust fan, and if humidity falls below 80 %, lightly mist walls and floor.  
+10. After the room is fully prepared and aired, bring in well-pasteurized, cooled compost, spawn it on racks at 22–24 °C, cover with casing soil after 16–18 days, then drop temperature to 16–18 °C to start button formation."
+38,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: When can you cultivate paddy in Bihar?  ","In Bihar you can grow rice in three distinct seasons, choosing the one that fits your water supply and labour best.  
+1. Main (Kharif or “Aghani”) crop: raise the nursery between 25 May and 20 June, transplant 20 June-20 July after the first steady monsoon showers, and harvest October-December.  
+2. Early (Aus or “Satha”) crop: dry-seed or drum-seed directly in the field during February-March, transplant (if you use a nursery) in April, and harvest August-September; this needs assured irrigation because monsoon has not started yet.  
+3. Winter/boro crop: sow the nursery in October-November on raised beds, transplant in December-January under assured irrigation or flood-recession moisture, and harvest April-May.  
+
+Most smallholders in Bihar select the Kharif window because rainfall is reliable then; choose boro or aus only if you have tube-well or canal water. Always keep 25-30-day-old seedlings for transplanting, puddle the field well, and try to finish transplanting before 20 July for Kharif or before mid-January for boro to get the highest yield and avoid late pest and flood damage."
+39,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: When can you cultivate onions?  ","Onion can be grown almost year-round in India, but you will get best yields if you match the crop to the right season and temperature.  
+
+1. Kharif crop: sow seed in nursery beds during June–July, transplant 6-week-old seedlings in August–September, and harvest bulbs in December–January.  
+2. Late-kharif/early-rabi crop: sow in August–September, transplant in October–November, harvest in February–March.  
+3. Rabi (main) crop: sow in October–November, transplant in December–January, harvest in April–May; this crop stores the longest.  
+4. Summer crop (mainly in irrigated areas): direct seed or transplant in January–February and harvest in May–June, but protect young plants from hot winds.  
+
+Choose short-day varieties (e.g., Agrifound Light Red, Arka Kalyan) for kharif and long-day or intermediate types (e.g., N-53, Bhima Super) for rabi. Germination and early growth need 13–24 °C; bulb formation is fastest at 25–30 °C, and the crop dislikes waterlogging, especially at maturity."
+40,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: How can I plant mushrooms?","1. Start with an easy, fast-growing variety such as oyster mushroom (Pleurotus spp.) or paddy-straw mushroom, and buy fresh spawn (seed) from a reliable government lab or Krishi Vigyan Kendra.  
+2. Chop clean paddy or wheat straw into 3-5 cm pieces, soak it in water for 6–8 hours, then pasteurise by boiling/steaming for 1 hour; drain until only a few drops of water come out when you squeeze a handful.  
+3. When the straw cools to room temperature, fill it loosely into perforated polythene bags (or stack it in a column), sprinkling spawn in 3–4 layers at about 5 % of straw weight.  
+4. Tie the bags and hang or rack them in a dark, well-ventilated room kept at 24–28 °C and 80–90 % humidity; mist the walls/floor twice daily but keep the bags just moist, not wet.  
+5. In 15–20 days the white mycelium will fully cover the straw; then cut open or peel off the plastic so the “blocks” are exposed to indirect light and fresh air.  
+6. Maintain high humidity by misting 2–3 times daily; small “pins” will appear within a week and grow into harvestable mushrooms in another 3–4 days.  
+7. Harvest by gently twisting when the caps are still curled downward and before they flatten; pick every 2–3 days for 3–4 flushes.  
+8. Expect roughly 1 kg of fresh mushrooms for every 1 kg of dry straw if hygiene and moisture are good.  
+9. After the final flush, use the spent straw as compost or cattle feed, and clean the room with lime or bleach solution to reduce disease for the next cycle.  
+10. Work cleanly, keep temperatures and humidity as noted, and you can repeat the process every 45–60 days for a steady income."
+41,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: What diseases are caused by mushrooms?  ","1. The white or brown “caps” we call mushrooms are only the fruiting bodies of certain fungi; by themselves they usually do not make crops sick.  
+2. A few fungi that form mushroom-like bodies do attack plants—for example Armillaria causes root-rot in many fruit and forest trees, and Ganoderma bracket fungi cause red- or white-rot and wilting in coconut, arecanut, banana and oil-palm.  
+3. Shelf or bracket fungi such as Phellinus and Fomes grow on trunks and produce “heart-rot,” hollowing out and eventually killing timber trees.  
+4. Relatives of mushrooms also give us maize smut (Ustilago), wheat rust (Puccinia) and rice sheath blight (Rhizoctonia), although these particular fungi do not form large caps that we notice in the field.  
+5. For people, the main danger is eating poisonous wild mushrooms like Amanita, Galerina or some Lepiota species, which can cause severe food-poisoning, liver or kidney failure and even death.  
+6. Workers who breathe heavy clouds of mushroom spores daily in closed sheds can develop an allergic lung problem called “mushroom worker’s lung.”  
+7. Cultivated mushrooms sold as button, oyster or milky mushroom are safe and nutritious when grown on clean substrate and harvested young, so the key is to avoid unknown wild mushrooms and manage tree-rotting fungi promptly."
+42,"You provide smallholder farmers in India with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: What types of mushrooms are there?","Mushrooms can be broadly grouped into edible/cultivable types, medicinal/specialty types, and poisonous wild types.  
+For regular commercial cultivation in India, the main edible species are: White Button Mushroom (Agaricus bisporus), Oyster Mushroom (Pleurotus spp.), Paddy-Straw Mushroom (Volvariella volvacea) and Milky Mushroom (Calocybe indica).  
+White Button grows in cooler weather (15-22 °C) and is the variety most commonly sold in urban markets.  
+Oyster mushrooms tolerate a wider temperature range (18-30 °C), grow on many crop residues and give a quick, reliable harvest.  
+Paddy-Straw mushrooms like very warm, humid conditions (28-35 °C) and are popular in eastern and southern India.  
+Milky mushrooms need 25-35 °C, perform well in summer and the rainy season, and keep their white colour for several days after harvest.  
+Specialty or medicinal mushrooms such as Shiitake (Lentinula edodes), Reishi/Lingzhi (Ganoderma lucidum) and Enoki require more controlled environments but fetch higher prices.  
+Never collect or eat wild mushrooms unless they are positively identified by an expert, because many poisonous species (e.g., certain Amanitas) closely resemble edible ones."

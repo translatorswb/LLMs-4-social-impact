@@ -1,0 +1,353 @@
+question_id,prompt,answer
+1,"You provide smallholder farmers in Kenya with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: What is the appropriate age for vaccination of cows?  ","1. A newborn calf gets protective antibodies from its mother’s colostrum that last about 3–4 months.  
+2. Once maternal antibodies wane, give the calf its first round of vaccines at 4–6 months of age.  
+3. For most common vaccines (blackquarter, haemorrhagic septicaemia, foot‐and‐mouth), follow this with a booster 4–6 weeks later.  
+4. After the primary course, revaccinate adult cattle once a year (or as the vaccine label advises).  
+5. Special vaccines like Brucella S19 are given once to heifers at 4–8 months.  
+6. Pregnant cows should receive a booster about 6 weeks before calving to enrich the colostrum.  
+7. Always read the vaccine instructions and consult your veterinary officer for local disease risks and exact schedules."
+2,"You provide smallholder farmers in Kenya with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: What should I do to prevent the mango tree from rotting and falling ","1. Mango trees hate waterlogged soil, so plant them on a small raised mound or ridge if your soil holds water.  
+2. Make sure the graft union (the swollen part on the trunk) stays at least 10–15 cm above the soil to stop rot pathogens from entering.  
+3. Remove any very wet or rotting bark and roots, then burn or bury them well away from the orchard.  
+4. Prune out dead or diseased branches and thin the canopy to improve air flow and sunlight penetration.  
+5. Mulch around the tree to conserve moisture but keep the mulch at least 20 cm from the trunk.  
+6. Spray a copper-based fungicide or Bordeaux mixture on the trunk base and pruning cuts before the rainy season, following label rates.  
+7. Avoid injuring the trunk with hoes or weeding tools and keep grass and weeds away from the collar area.  
+8. Stake young or top-heavy trees until the root system is strong to prevent wind-throw.  
+9. Check regularly for any signs of wet, soft patches or fruiting bodies (mushroom-like growths) at the collar.  
+10. Good drainage, clean pruning, and timely fungicide sprays will greatly reduce rot and keep your mango trees standing strong."
+3,"You provide smallholder farmers in Kenya with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: What are alternative crops to cowdung?","1. Cow dung is a good organic fertilizer but you can also use other materials if it’s scarce.  
+2. Poultry (chicken) or goat manure are both rich in nutrients and easy to find in most villages.  
+3. Compost made from kitchen scraps, crop residues and dry leaves adds organic matter and improves soil structure.  
+4. Green‐manure crops such as Sunn hemp, Mucuna (velvet bean), Crotalaria or Lablab can be grown and then ploughed back into the soil to supply nitrogen.  
+5. Leguminous trees like Gliricidia or Calliandra can be pruned and used as mulch or added to your compost heap.  
+6. Vermicompost (earthworm compost) turns organic waste into a fast‐acting, nutrient‐rich fertilizer.  
+7. Wood ash from burned branches or maize cobs provides potassium and raises pH in acidic soils.  
+8. Biofertilizers with Rhizobium or mycorrhizal fungi can also boost nutrient uptake by your crops.  
+9. Rotating among these options keeps your soil fertile and reduces dependency on any single manure source."
+4,"You provide smallholder farmers in Kenya with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: What are the effects of marigold as a trap crop?","1. Marigolds (Tagetes spp.) used as a trap or cover crop release natural compounds (α-terthienyl) from their roots that kill root-knot nematodes in the soil.  
+2. When you plant marigold strips around or between your main crop, nematodes move toward the marigold roots and die, lowering pest pressure on vegetables like tomatoes, beans or peppers.  
+3. After 6–8 weeks of growth, cut the marigold plants and incorporate their green matter into the soil to boost nematode suppression.  
+4. Trials show nematode populations can drop by up to 80–90%, reducing stunting, yellowing and yield losses in your main crop.  
+5. Marigolds also attract beneficial insects (ladybirds, lacewings) that feed on aphids and other soft-bodied pests.  
+6. To avoid harboring unwanted pests (for example aphids that might move onto cucurbits), remove marigold debris after incorporation and rotate with a non-host crop.  
+7. Overall, using marigolds as a trap crop is a low-cost, eco-friendly way to manage soil nematodes and boost yields."
+5,"You provide smallholder farmers in Kenya with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: How do I prevent leaf blight in chili?","1. Use healthy, certified seed or a blight-resistant chili variety.  
+2. Rotate chili with non-host crops (e.g., maize or beans) for at least two seasons.  
+3. Plant seedlings with 50–60 cm between rows and 30–40 cm within rows to improve air flow.  
+4. Water at the base early in the morning—avoid overhead irrigation and never water late in the day.  
+5. Remove and destroy any yellowing or spotted leaves; keep fields and tools clean.  
+6. Apply a copper-based fungicide or mancozeb every 10–14 days, following label rates.  
+7. Maintain balanced soil fertility—avoid too much nitrogen, which favors lush growth and disease."
+6,"You provide smallholder farmers in Kenya with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: Can the quantity of grain be increased in the absence of green fodder?  ","Yes. Grain yields depend on good soil fertility, not just green fodder, so you can still boost your harvest by:  
+1. Choosing a high-yielding, early-maturing certified variety suited to your area.  
+2. Planting at the right time—just after reliable rains begin—and following the recommended spacing (e.g. 75 cm between rows, 25 cm between plants).  
+3. Applying a balanced fertilizer: a basal dose of DAP at planting and a top-dress of CAN or Urea about 4–6 weeks later.  
+4. Incorporating any available farmyard manure or compost before planting to improve soil structure and water retention.  
+5. Keeping your field weed-free through timely weeding at 3–6 weeks after planting.  
+6. Using maize foliar feeds (like molybdenum or zinc sprays) if soil tests show deficiencies.  
+With these steps you can raise grain quantities even when you cannot grow or source green fodder."
+7,"You provide smallholder farmers in Kenya with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: How do I to recognize milk fever in cows?  ","Milk fever usually shows up around calving when blood calcium drops suddenly. A cow with milk fever will be weak or down, often unable to stand or walk and may stagger if you help her up. You might see muscle tremors around the ears, eyelids or flanks and feel that her ears, muzzle and legs are unusually cool. Affected cows lose appetite, stop chewing cud and may be constipated. Their heart rate slows, and body temperature can fall below normal. In severe cases the cow may go into a coma. If you spot these signs, call your animal health worker or vet right away. Prompt treatment with an intravenous calcium solution can save her life."
+8,"You provide smallholder farmers in Kenya with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: Can animal feed be made at home?  ","Yes. You can make balanced animal feed at home using on‐farm ingredients. Combine energy sources like maize or sorghum bran with protein sources such as sunflower cake, cottonseed cake or legume haulms. Use roughage from Napier grass, maize stover or sweet potato vines to provide fibre. A simple mix of about 70% energy feed and 30% protein feed meets most livestock needs. Add a small handful of salt and a source of calcium (e.g. crushed eggshells or limestone) to every batch. Weigh each ingredient with a scale or measuring container and mix thoroughly in a clean trough or bucket. Store the finished feed in a dry, rodent‐proof place to keep it fresh and mould‐free."
+9,"You provide smallholder farmers in Kenya with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: How do I to choose a suitable breed of cow?  ","1. First decide your main goal: milk production, beef or both.  
+2. Check your farm’s climate, feed availability and your capacity to manage high-production animals.  
+3. For high milk yield with good feed give Friesian, Ayrshire or Jersey breeds.  
+4. If you have limited feed, heat stress or disease pressure, choose hardy breeds like Sahiwal, Red Boran or their crosses.  
+5. For beef focus on Boran, Galla or Boran-exotic crosses.  
+6. Crossbreeds (for example Friesian×Boran) often combine good yield with local disease tolerance.  
+7. Always buy from reputable breeders who can show you health and breeding records.  
+8. Ensure you can provide proper housing, clean water and regular veterinary care.  
+9. Ask your extension officer about expected yield, feed requirements and local disease challenges.  
+10. Finally pick a breed that fits your resources, market demand and management skills."
+10,"You provide smallholder farmers in Kenya with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: What are some regenerative farming strategies I can try?","1. Rotate your main crops (maize, beans, sorghum) with legumes (e.g. lablab, mucuna) to break pest cycles and fix nitrogen in the soil.  
+2. Grow cover crops in the off-season to protect bare soil from erosion, suppress weeds and add organic matter when you mulch them in.  
+3. Intercrop food crops with fodder or shade trees (e.g. calliandra, leucaena) so tree leaf drop becomes free mulch and green manure.  
+4. Use minimum or “zero” tillage by planting directly into old crop residues—this conserves moisture and builds soil structure.  
+5. Spread mulch (straw, grass, prunings) around young plants to reduce evaporation, keep soil cooler, and feed soil life.  
+6. Make and apply compost or well-rotted farmyard manure to improve soil fertility and water-holding capacity.  
+7. On sloping land, construct contour ridges or terraces to slow rainwater runoff, reduce erosion and soak more water into the soil.  
+8. Keep a few livestock or poultry to turn crop residues into manure, then return that manure to your fields as natural fertilizer."
+11,"You provide smallholder farmers in Kenya with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: What to do if my cows are weak?  ","1. First, check their feed: offer good-quality green fodder (like Napier grass) plus a legume (e.g., Desmodium) for protein.  
+2. Add a small amount of concentrate (maize bran or commercial dairy meal) and always provide a mineral-salt lick.  
+3. Make sure they have clean, fresh water day and night.  
+4. Deworm every 3–6 months and control ticks by regular dipping or spraying.  
+5. Keep up with vaccinations for diseases like foot-and-mouth and blackleg.  
+6. Provide a dry, shaded place to rest and reduce stress.  
+7. If cows remain weak, call a local animal health officer for a health check and treatment plan."
+12,"You provide smallholder farmers in Kenya with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: What is the status of milk production in Kenya?  ","1. Kenya is the leading milk producer in East Africa, with about 7–8 billion litres produced each year.  
+2. Over 80% of this milk comes from smallholder farmers who keep 2–3 cows on average.  
+3. Average daily yield per cow is only 6–8 litres, well below the potential of improved dairy breeds.  
+4. Milk output peaks in the long and short rainy seasons and falls sharply during the dry season when pasture and water become scarce.  
+5. Per-person milk consumption in Kenya is about 60 litres per year, compared to the 200 litres recommended for good nutrition.  
+6. The dairy sector contributes around 4–5% of national GDP and supports over 3 million rural households.  
+7. Main challenges are low cow productivity, feed shortages, and weak cooling and transport systems.  
+8. Government and partner programmes are promoting improved breeds, better feed management, and stronger milk-handling infrastructure to raise both production and quality."
+13,"You provide smallholder farmers in Kenya with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: How do I control yellow pests in paddy fields? ","1. The “yellow borer” (yellow stem borer) is a caterpillar that bores into rice stems, causing “dead hearts” and empty panicles (“whiteheads”).  
+2. After harvest, plough under stubbles and volunteer plants to destroy overwintering eggs and larvae.  
+3. Keep your paddy flooded (2–5 cm water) during the early tillering stage to drown young borers.  
+4. Plant approved, borer‐resistant or tolerant rice varieties if they are available from your local seed supplier.  
+5. Use light traps or pheromone traps in the field to attract and capture adult moths.  
+6. Scout your crop weekly: look under leaves for egg masses and hand-pick or crush them.  
+7. Conserve natural enemies like Trichogramma wasps by avoiding broad-spectrum insecticides.  
+8. If damage exceeds 10% “dead hearts,” spray a selective insecticide (e.g. buprofezin) at the tillering and panicle initiation stages, following label rates.  
+9. Rotate chemicals with different modes of action each season to prevent resistance."
+14,"You provide smallholder farmers in Kenya with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: What is the best goat feed?  ","The best goat diet combines good-quality forage, a protein-rich supplement and minerals:
+
+1. Forage (70 % of the diet): fresh or dried Napier grass, maize stover or natural browse (e.g. calliandra, leucaena, desmodium).  
+2. Protein supplement (30 % of the diet): maize germ, sunflower cake, cottonseed cake or soya bean meal—about 200–300 g per adult goat per day.  
+3. Energy sources: maize or wheat bran (100–200 g per goat per day).  
+4. Minerals: offer a free-access mineral lick or salt plus dicalcium phosphate daily.  
+5. Fresh, clean water should be available at all times.  
+6. For kids and lactating does increase concentrates by 50 %.  
+7. Feed small amounts 2–3 times a day to avoid waste and improve digestion."
+15,"You provide smallholder farmers in Kenya with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: How do I prevent cotton bollworm?","1. Keep your field clean by removing old cotton stalks, fallen bolls and weeds—this destroys places where bollworms hide and breed.  
+2. Rotate cotton with non‐host crops (like maize or beans) each season to break the bollworm life cycle.  
+3. Plant cotton varieties known to be bollworm‐tolerant or Bt‐cotton if available in your area.  
+4. Use pheromone traps to monitor moth flights; when trap catches exceed the local threshold (ask your extension office), take action.  
+5. Spray biopesticides such as Bacillus thuringiensis (Bt) or neem oil early, when larvae are still small.  
+6. Conserve natural enemies (ladybirds, lacewings, parasitic wasps) by avoiding broad‐spectrum insecticides.  
+7. If you must use chemicals, choose selective insecticides, rotate between different classes, follow label rates and spray in the cool parts of the day."
+16,"You provide smallholder farmers in Kenya with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: What is the best fertilizer when planting?","The best fertilizer at planting is one high in phosphorus to kick‐start root growth—commonly DAP (18-46-0) or Triple Super Phosphate (46% P) applied in the planting hole or in a band at 50–75 kg per acre (120–180 kg/ha). If your soil test shows sulphur and boron shortages, use NPSB (23-23-0-5) at the recommended rate. On soils needing a more balanced mix, a compound NPK such as 17-17-17 works well at planting. Always base your choice and rates on a recent soil test, and blend with well-rotted manure or compost to improve soil structure and microbial life. Avoid contact of fertilizer with seed to prevent “burn,” and plan a later top-dress with a nitrogen source (CAN or Urea) when plants reach the 4–6 leaf stage."
+17,"You provide smallholder farmers in Kenya with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: How much cow dung should be applied per hectare?","A good guideline is to apply 10–15 tonnes of well-rotted cow dung per hectare.  This is roughly 200–300 wheelbarrows (at 50 kg each) or about 200–300 standard 50 kg bags.  Spread it evenly across the field and incorporate it into the top 10–15 cm of soil at least two weeks before planting.  If your soil is very poor, you can raise the rate up to 20 t/ha, but avoid fresh (unrotted) dung to prevent seedling burn.  After incorporation, follow up with your normal fertilizer regimen for best yields."
+18,"You provide smallholder farmers in Kenya with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: White mold is developing on my mushrooms, what are potential solutions?  ","1. White mold on mushrooms is often Trichoderma or Mucor fungi thriving in overly damp, poorly ventilated rooms.  
+2. First, remove and burn any infected mushrooms and casing to stop spores spreading.  
+3. Pasteurize or sterilize your substrate well before spawning to kill lingering mold spores.  
+4. Use only disease-free, high-quality spawn from a reliable supplier.  
+5. Keep relative humidity at about 80–85% (not higher), and ensure fresh air exchange 3–4 times daily to prevent stagnant, humid pockets.  
+6. Maintain casing moisture without waterlogging: spray lightly rather than pouring water.  
+7. Ventilate the growing room or use small fans to move air gently across beds.  
+8. Disinfect tools, trays and your hands with a mild bleach (1%) or quaternary ammonium solution between tasks."
+19,"You provide smallholder farmers in Kenya with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: How many types of onions are there and what are there benefits?  ","There are three main types of onions: bulb onions, green onions (scallions), and shallots.  
+1. Bulb onions come in yellow (strong flavor and long storage), red (mild, colorful, rich in antioxidants) and white (mild, great for salsas).  
+2. Green onions are harvested young for their tender stalks and mild taste; they grow fast and you can cut them several times.  
+3. Shallots form small clusters, have a sweet, delicate flavor and store well.  
+All onions are rich in vitamin C and minerals, boost immunity, improve digestion, add flavor to many dishes, and can be sold fresh or stored, helping increase your income."
+20,"You provide smallholder farmers in Kenya with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: How much animal feed should be given to milk cows?  ","1. A mature dairy cow (about 400–450 kg live weight) needs roughly 2.5–3 % of her body weight in dry‐matter feed each day, that is about 10–13 kg of good quality fodder (Napier grass, legumes, or silage).  
+2. In addition, feed 0.3–0.5 kg of concentrate (maize bran, oilseed cake, dairy meal) for each litre of milk produced.  
+3. For example, a cow giving 10 litres of milk would get about 3–5 kg of concentrate daily.  
+4. Do not exceed 5–6 kg of concentrate per day for an average cow.  
+5. Always offer a mineral/salt lick so she gets essential minerals.  
+6. Provide 50–100 litres of clean water every day to support milk production and digestion.  
+7. Watch her body condition and milk yield and adjust fodder and concentrate amounts up or down as needed."
+21,"You provide smallholder farmers in Kenya with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: How much feed is needed for a rural cow?  ","A healthy mature cow needs about 2–3 percent of her body weight in dry matter every day.  
+So, a 300 kg local cow would eat roughly 6–9 kg of dry matter daily.  
+In fresh forage terms that is about 18–27 kg of Napier grass (at 25–35 percent dry matter).  
+If you also offer crop residues (maize stover or bean haulms), boost it with 1–2 kg of a dairy meal or maize germ per day.  
+Lactating cows on milk should get closer to 3 percent of body weight in dry matter plus the extra concentrate.  
+Always give clean water freely; a milk cow may drink 30–50 litres per day.  
+Adjust these amounts up or down for very young or very old animals and during dry or rainy seasons."
+22,"You provide smallholder farmers in Kenya with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: What should be fed to a pregnant cow?  ","1. Feed your pregnant cow good-quality roughage such as fresh Napier grass, good hay, or well-managed pasture.  
+2. Add protein-rich legume forages like calliandra, desmodium or lucerne to support foetal growth and milk production.  
+3. In the last trimester, top up energy by giving a small amount of dairy meal, maize germ or rice bran.  
+4. Always offer a free-choice salt-mineral lick to supply calcium, phosphorus and trace minerals.  
+5. Provide clean, fresh water at least twice a day—and more if the weather is hot.  
+6. Divide her daily allowance into two meals to improve digestion and nutrient use.  
+7. Increase concentrates gradually over two weeks to avoid upsetting her rumen.  
+8. Check her body condition regularly: she should be neither too thin nor too fat before calving."
+23,"You provide smallholder farmers in Kenya with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: How do I manage water in rice cultivation?  ","1. Before planting, level your rice field well and build strong bunds (small embankments) around the plot so you can hold water evenly.  
+2. After transplanting or direct-seeding, keep a thin layer of water (about 3–5 cm) over the soil until the plants have about three to four tillers.  
+3. Check water depth each morning with a marked bamboo pole; this helps you maintain the right level and avoid water stress.  
+4. Around panicle initiation (when grain heads start to form), you can let the field dry for a few days to save water and improve root growth, then refill to 3–5 cm.  
+5. During grain filling, keep the water layer shallow (1–2 cm) to prevent lodging (plants falling over) and to ensure good grain weight.  
+6. Two to three weeks before harvest, drain the field completely to allow the soil to dry and make harvesting easier.  
+7. Always repair leaks in bunds and canals quickly, and reuse any drained water in other parts of your farm to make the best use of every drop."
+24,"You provide smallholder farmers in Kenya with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: What type of beans should I plant?","The best bean variety for you depends on your altitude, rainfall pattern and whether you can afford staking.  
+If you have two reliable rainy seasons and stakes, climbing beans such as “Mwitemania” or “Mwezi Moja” give very high yields over a long picking period.  
+They do need fertile soil, good spacing and strong poles or sisal sticks.  
+If you want a quick harvest without staking, plant bush beans like “Speedy,” “Calima” or “Kat B9,” which mature in 60–80 days.  
+For drier areas consider drought-tolerant cowpeas or lablab beans (e.g., “Glenda”) that survive on low rainfall.  
+Always buy certified seed from a reputable agrodealer or KALRO to ensure good germination.  
+Inoculate the seed with rhizobia paste at planting and apply a light dressing of DAP or compost if your soil is poor.  
+Rotate beans with maize or sorghum each season to break pest cycles and keep your soil healthy."
+25,"You provide smallholder farmers in Kenya with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: What precautions should farmers take to prevent waterlogging?","1. Lay out simple drainage channels or ditches around and through your field to carry excess water away.  
+2. Plant on raised beds or ridges so roots stay above any pooling water.  
+3. Level your land properly to prevent low spots where water can collect.  
+4. Avoid over-watering—only irrigate when soil feels dry below the surface.  
+5. Use cover crops or grasses in between main crops to improve soil structure and increase water infiltration.  
+6. Don’t work or drive heavy machinery on wet soil, as compaction makes drainage worse.  
+7. Select crop varieties that tolerate occasional wet soil if your field is prone to waterlogging.  
+8. Check and clear drains regularly of weeds or debris so water flows freely."
+26,"You provide smallholder farmers in Kenya with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: What are the common diseases that affect cattle?","Common diseases in Kenyan cattle include East Coast fever (ECF), foot-and-mouth disease (FMD), lumpy skin disease (LSD), trypanosomiasis, black quarter and mastitis.  
+1. ECF is caused by a blood parasite carried by ticks and shows high fever, laboured breathing and swollen lymph nodes.  
+2. FMD causes blisters on the mouth, teats and feet, making it painful for cattle to eat or walk.  
+3. LSD produces firm skin nodules and can reduce milk yield; it spreads by biting flies.  
+4. Trypanosomiasis (“nagana”) comes from tsetse flies and causes weight loss, weakness and anaemia.  
+5. Black quarter (blackleg) leads to sudden death in young animals; vaccinate calves to prevent it.  
+6. Mastitis is udder infection, seen as swelling, heat or clots in milk; keep the udder clean when milking."
+27,"You provide smallholder farmers in Kenya with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: How can animals be protected from infectious diseases?  ","1. Give your animals all recommended vaccines and deworm them on schedule to build their natural defenses.  
+2. Always isolate new or sick animals for at least two weeks before mixing them with the rest of the herd.  
+3. Keep their housing clean, dry and well-ventilated to reduce germs.  
+4. Provide clean water and good quality feed so animals stay strong.  
+5. Wash and disinfect feeding troughs, waterers, boots and tools every day.  
+6. Set up a footbath at the entrance to pens and force everyone to use it.  
+7. Control rodents, flies and mosquitoes around your farm because they spread disease.  
+8. Bury or burn any dead animals quickly, and call a livestock officer if you see unusual sickness."
+28,"You provide smallholder farmers in Kenya with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: What causes dandruff in onions?  ","Onion “dandruff” is not a fungus but a physiological disorder in which the bulb’s outer scales never form a tight, dry tunic and simply flake off. It most often happens when you give too much nitrogen late in the season or when heavy rains or over-watering occur just before harvest, leaving the neck and outer scales soft. Prolonged cloudy, humid weather also slows the drying of the bulb so the tunic can’t harden. If you pull onions too early or try to cure them in a damp environment, the problem gets worse. To prevent it, stop watering about two weeks before harvest so the tops fall over naturally, avoid high nitrogen after bulbing begins, and cure your onions in a well-ventilated, dry spot until the necks and skins are papery. Good field sanitation and rotating with non‐Allium crops also help bulbs form proper protective skins."
+29,"You provide smallholder farmers in Kenya with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: What are the main symptoms of common parasitic diseases found in animals?  ","1. Internal worms often cause poor appetite, weight loss and slow growth.  
+2. You may see diarrhea, “bottle jaw” swelling under the jaw, or actual worm segments in the dung.  
+3. Animals with heavy worm loads show pale gums or eyelids, a sign of anemia and weakness.  
+4. Milk yield and fertility often drop when animals carry many internal parasites.  
+5. External parasites (ticks, lice, mites) make animals scratch, rub posts or roll on the ground.  
+6. Look for hair loss, scabs or raw patches on skin where parasites have bitten or burrowed.  
+7. A dull, rough coat and restlessness are also common signs of lice or mite infestation.  
+8. Early detection and regular de-worming plus tick control protect your herd’s health and productivity."
+30,"You provide smallholder farmers in Kenya with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: How to treat lameness in animals?  ","1. Lameness often comes from cuts, footrot, abscesses or weak hooves caused by poor nutrition.  
+2. First isolate the animal in a clean, dry pen and allow it rest to prevent further injury.  
+3. Gently wash the hoof or injured leg with clean water, remove dirt and overgrown hoof material.  
+4. Apply an antiseptic like iodine or chlorhexidine, then give a footbath in 5 % copper or zinc sulfate if you suspect footrot.  
+5. If the leg is hot, swollen or very painful, use a veterinarian-recommended anti-inflammatory (e.g. flunixin) at the correct dose.  
+6. For deep infections or abscesses your vet may need to lance the lesion and prescribe antibiotics.  
+7. Improve the animal’s diet with good protein, energy, and a mineral supplement (especially zinc, copper and biotin) for stronger hooves.  
+8. Keep housing areas dry and clean, and trim all animals’ hooves regularly every 3–4 months to prevent lameness."
+31,"You provide smallholder farmers in Kenya with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: How can soil health be improved with crops?","1. Include legume crops (like beans, cowpeas or mucuna) in your rotation or intercrop them with maize to fix nitrogen and boost soil fertility.  
+2. Grow cover crops such as crotalaria or lablab during the off‐season to protect soil from erosion, suppress weeds, and add organic matter when you plow them in.  
+3. Rotate crop families (for example, cereals one season, legumes the next) to break pest and disease cycles and balance nutrient use.  
+4. Use deep‐rooted plants (like pigeon pea or fodder trees such as calliandra) in your fields or boundaries to improve soil structure and access nutrients from deeper layers.  
+5. After harvesting, leave crop residues on the field or mulch with them instead of burning—this returns organic matter and nutrients to the soil.  
+6. If possible, intercrop maize with high‐biomass species (napier grass strips or sesbania hedges) to supply mulch and protect against erosion.  
+7. Minimize tillage by using planting basins or ripping before planting, which helps retain moisture and preserves soil life.  
+8. Over time, these practices build healthy soil, increase yields, and reduce your need for expensive fertilizers."
+32,"You provide smallholder farmers in Kenya with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: What are some organic methods of controlling pests and diseases in bean crops?","1. Start with clean, disease-resistant bean seed and rotate your beans with cereals (maize, sorghum) each season to break pest and disease cycles.  
+2. Intercrop beans with maize or sorghum to confuse bean pests and reduce spreading of diseases.  
+3. Remove and destroy (or bury) any plants showing disease symptoms to keep infections from spreading.  
+4. Spray botanical extracts—neem leaf tea, crushed garlic or chili—to repel aphids, thrips and other chewing pests.  
+5. Dust wood ash around the base of plants to control aphids and bean fly eggs.  
+6. Encourage natural predators (ladybird beetles, lacewings) by growing flowering plants like cosmos or marigold around your bean field.  
+7. Keep the field clean—weed regularly, avoid waterlogging, and maintain proper spacing—to lower humidity and reduce fungal diseases.  
+8. Apply well-rotted compost or farmyard manure to boost soil health and help plants resist pests and diseases."
+33,"You provide smallholder farmers in Kenya with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: What are the diseases that occur in rice crops?  ","Rice crops in Kenya can be attacked by fungal, bacterial and viral diseases.  
+1. Rice blast (Pyricularia oryzae) causes grayish spots on leaves, neck rot and empty grains.  
+2. Sheath blight (Rhizoctonia solani) shows water‐soaked patches on the leaf sheath.  
+3. Brown spot (Cochliobolus miyabeanus) gives small brown lesions on leaves and grains.  
+4. False smut (Ustilaginoidea virens) forms green or yellow ball‐like balls on panicles.  
+5. Bacterial leaf blight (Xanthomonas oryzae) produces yellow to pale green stripes on leaves.  
+6. Rice tungro virus leads to stunted growth, yellow/orange leaves and poor tillering.  
+7. Bakanae (foolish seedling) makes seedlings spindly, tall and weak, often killing young plants."
+34,"You provide smallholder farmers in Kenya with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: There is a lot of grass in the paddy, what are potential solutions?","1. Heavy grass in your paddy will compete with rice for nutrients, light and water, cutting your yield.  
+2. Before transplanting, plow and harrow well, then puddle the field to break and submerge weed seeds.  
+3. Keep 5–7 cm of water in the field soon after transplanting—continuous flooding suppresses most grass weeds.  
+4. Hand‐weed or use a simple mechanical weeder (e.g. a cono weeder) at 2–3 weeks after transplanting, when weeds are small.  
+5. If infestation is severe, apply a recommended herbicide such as butachlor 1.5 L/ha within 2–3 days after transplanting (follow label instructions and safety measures).  
+6. For stubborn grasses like Echinochloa, you may use 2,4-D at 30 days after transplanting, but only on tolerant rice varieties and with correct dosage.  
+7. Rotate rice with upland crops (e.g. maize or legumes) to break the grass weed life cycle.  
+8. Keep bunds and field edges clean to prevent new weed seeds blowing or washing in.  
+9. Finally, use clean, certified seed and weed‐free transplanting material to avoid introducing new weeds."
+35,"You provide smallholder farmers in Kenya with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: Which onion seed is good?  ","Good onion seed varieties for Kenyan smallholders include hybrid F1 types like Tiger F1 and Hercules F1, which give high yields, uniform bulbs and good resistance to downy mildew. For red onions, try Red Creole or Bombay Red F1 – they store well and fetch good prices. If you need an early‐maturing white onion, Texas Grano 502 or Romulo matures in about 80–90 days. Always buy certified seed from a reputable agrodealer to ensure high germination and true‐to‐type plants. Follow recommended spacing (10–15 cm between plants and 30 cm between rows), rotate with non‐allium crops and apply balanced fertiliser to keep plants healthy. With quality seed and proper crop care, you’ll get strong stands and marketable bulbs."
+36,"You provide smallholder farmers in Kenya with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: How to prepare a room to grow button mushrooms?  ","1. Pick a small, enclosed room with a smooth concrete floor and walls so you can wash it easily.  
+2. Clear out all old material, sweep well and scrub walls, floor and ceiling with a 1:10 Jik (household bleach) solution to kill any pests or diseases.  
+3. Seal any cracks or holes and fit windows or vents with insect‐proof mesh to stop flies and rodents entering.  
+4. Build strong shelves or benches about 30 cm apart to hold your compost trays or beds.  
+5. Install a simple misting spray or fogger (or use a hand sprayer) to keep humidity at 85–90 %, and add a small fan or vents for gentle fresh‐air exchange.  
+6. Keep the room in very low light—mushrooms do not need sunlight to form.  
+7. Maintain about 24 °C during spawn run, then drop to 16–18 °C to induce pinning (fruiting).  
+8. After cleaning and setting up, close the room for a day to let any bleach fumes clear before bringing in your prepared compost."
+37,"You provide smallholder farmers in Kenya with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: When can you cultivate paddy in Kenya?  ","Under rain-fed conditions in Kenya, you plant paddy twice a year:  
+1. At the start of the long rains (about mid-March to late April)  
+2. At the start of the short rains (about October to early November)  
+
+In irrigation schemes (e.g. Mwea), you can grow almost year-round but normally split into two main crops:  
+• January–May  
+• June–December  
+
+Always begin land preparation (ploughing and puddling) 2–3 weeks before your planting window so the field holds water well once the rains or irrigation start."
+38,"You provide smallholder farmers in Kenya with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: When can you cultivate onions?  ","You can grow onions twice a year in most parts of Kenya: at the start of the long rains (March–May) and again at the start of the short rains (September–November).  If you have access to irrigation you can also plant in the dry periods between these rains.  Start your onion seedlings in a nursery 6–8 weeks before your planned field‐planting date, then transplant when they are 6–7 weeks old.  Prepare well‐drained, fertile soil free of weeds and ensure consistent moisture until the bulbs begin to swell.  Good spacing (about 30 cm between rows and 10 cm between plants) and regular weeding will give you your best yield."
+39,"You provide smallholder farmers in Kenya with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: How can I plant mushrooms?","1. Choose a mushroom variety such as oyster or button that grows well in Kenya’s climate.  
+2. Prepare a clean substrate of chopped maize stalks, wheat straw or sawdust mixed with 5–10% rice bran.  
+3. Pasteurize the substrate by heating it in a drum of hot water (60–70 °C) for 1–2 hours to kill weeds and pests.  
+4. Cool the pasteurized substrate to room temperature in a clean area.  
+5. Mix in quality mushroom spawn (seed) at about 5–10% of the wet substrate weight, wearing clean gloves and using a disinfected workspace.  
+6. Pack the mixture into clean plastic bags or buckets with small holes for air exchange, then seal or cover lightly.  
+7. Incubate in a dark, humid place (25–28 °C, 80–90% relative humidity) for 2–3 weeks until the substrate is fully colonized by white mycelium.  
+8. Move to a fruiting area with indirect light, fresh air and maintain high humidity by misting; mushrooms should begin to pin and grow in 5–7 days.  
+9. Harvest mushrooms by twisting or cutting at the base when caps open but before the edges flatten completely.  "
+40,"You provide smallholder farmers in Kenya with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: What diseases are caused by mushrooms?  ","Mushrooms are the fruiting bodies of fungi, and many fungi cause important crop diseases.  Common fungal diseases include rusts (e.g. wheat rust, coffee rust), smuts (e.g. maize smut), powdery mildew on beans and cucurbits, downy mildew on onions and grapes, late blight on potatoes and tomatoes, and rots or wilts such as Fusarium wilt.  These diseases attack leaves, stems, roots or tubers, weaken the plant and cut yields.  Fungal spores survive in crop debris or soil and spread by wind, rain or infected seed.  To manage them, plant resistant varieties, rotate with non-host crops, remove and burn diseased residues, keep plants well spaced for air flow, and apply approved fungicides when needed."
+41,"You provide smallholder farmers in Kenya with high quality agricultural advice and information. Please respond to the following question like an agronomist or agricultural extension agent would respond to a smallholder farmer. Be factually correct, precise and make the response understandable for a smallholder farmer. Do not use more than 10 sentences.
+
+Question: What types of mushrooms are there?","1. Mushrooms come in many types, but the main groups are edible, medicinal and wild forest mushrooms.  
+2. Edible mushrooms you can grow easily include button mushrooms (Agaricus bisporus), oyster mushrooms (Pleurotus ostreatus) and shiitake (Lentinula edodes).  
+3. Paddy-straw mushrooms (Volvariella volvacea) also grow well on rice straw and are popular in tropical areas.  
+4. Medicinal mushrooms such as reishi (Ganoderma lucidum) and turkey tail (Trametes versicolor) are used for health teas and extracts.  
+5. Wild forest mushrooms like Termitomyces spp. (commonly called “termite mushrooms”) grow with termite mounds and need careful identification.  
+6. Puffball mushrooms form round fruiting bodies and when young are edible, but must be white inside.  
+7. Boletes have a sponge-like layer under the cap instead of gills; some are excellent edibles, others can upset your stomach.  
+8. Always learn to identify mushrooms properly or grow reliable strains to avoid poisonous look-alikes."
