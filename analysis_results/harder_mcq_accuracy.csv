@@ -1,10 +1,10 @@
 model,accuracy
 anthropic-claude-3-5-sonnet-20241022,0.94
 anthropic-claude-3-7-sonnet-20250219,0.89
-deepseek-deepseek-chat,0.67
 deepseek-deepseek-reasoner,0.89
-gemini-gemini-2-5-pro-preview-05-06,0.39
-openai-gpt-4o-2024-08-06,0.67
-openai-o1-2024-12-17,0.83
 openai-o3-2025-04-16,0.89
+openai-o1-2024-12-17,0.83
 openai-o4-mini-2025-04-16,0.72
+deepseek-deepseek-chat,0.67
+openai-gpt-4o-2024-08-06,0.67
+gemini-gemini-2-5-pro-preview-05-06,0.39
