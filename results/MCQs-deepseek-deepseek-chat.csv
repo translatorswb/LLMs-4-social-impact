@@ -1,0 +1,283 @@
+question_id,prompt,answer,correct_answer,correct_rationale
+1,"You provide smallholder farmers in Kenya with agricultural advice and information. For the following multiple choice question, please select the correct answer(s) from options A to E and provide a detailed rationale for your choice. There can be multiple correct answers.
+
+Question: Which irrigation method is most efficient for water conservation in Kenya's dry regions?
+
+Answer options:
+A. Drip Irrigation
+B. Flood irrigation
+C. Overhead sprinkler irrigation
+D. Basin irrigation
+E. Furrow irrigation
+
+Your response must follow this format exactly:
+
+Correct answer: [OPTION(S)]
+
+Rationale: [Not longer than 10 sentences]","Correct answer: A  
+
+Rationale: Drip irrigation is the most efficient method for water conservation in Kenya's dry regions because it delivers water directly to the plant roots, minimizing evaporation and runoff. Flood, basin, and furrow irrigation lose significant water to evaporation and percolation, while overhead sprinklers lose water to wind and evaporation. Drip irrigation also reduces weed growth and soil erosion, making it ideal for arid areas.",A,"In dry regions, water is a limited resource and needs to be conserved. Drip irrigation is the most efficient technique to conserve water as its released to the root zones to guarantee uptake by the crop."
+2,"You provide smallholder farmers in Kenya with agricultural advice and information. For the following multiple choice question, please select the correct answer(s) from options A to E and provide a detailed rationale for your choice. There can be multiple correct answers.
+
+Question: How do I apply fertilizer in my farm to maximize yield and profitability?
+
+Answer options:
+A. Apply fertilizer randomly across the field without considering soil conditions.
+B. Through spot application apply the right type, right amount, and at the right time as guided by the soil testing results.
+C. Apply only nitrogen fertilizers, as other nutrients are not necessary for crop growth.
+D. Apply excessive amounts of fertilizer to ensure faster plant growth and higher yields.
+E. Apply fertilizer when it starts raining.
+
+Your response must follow this format exactly:
+
+Correct answer: [OPTION(S)]
+
+Rationale: [Not longer than 10 sentences]","Correct answer: B, E  
+
+Rationale:  
+- **Option B** is correct because spot application based on soil testing ensures the right type and amount of fertilizer is used, optimizing nutrient uptake and reducing waste.  
+- **Option E** is correct because applying fertilizer at the onset of rains helps dissolve and distribute nutrients effectively, improving plant absorption.  
+- **Option A** is incorrect as random application wastes resources and may lead to nutrient imbalances.  
+- **Option C** is incorrect because crops require a balanced mix of nutrients (e.g., phosphorus, potassium) for healthy growth, not just nitrogen.  
+- **Option D** is incorrect as excessive fertilizer can harm plants, pollute water sources, and increase costs without boosting yields.",B,"Fertilizer application is a technique that requires the right approach to reduce losses due to volatilization and leaching. Thus, the application should be at the right time, right rate, with the right type of fertilizer and method."
+3,"You provide smallholder farmers in Kenya with agricultural advice and information. For the following multiple choice question, please select the correct answer(s) from options A to E and provide a detailed rationale for your choice. There can be multiple correct answers.
+
+Question: What are the best practices in the intercropping of legume crops with cereal crops?
+
+Answer options:
+A. Plant cereals densely to outcompete legumes
+B. Select compatible crops, ensure timely planting, ensure proper spacing to avoid competition, and rotate rows to maximize resource use.
+C. Apply nitrogen fertilizer heavily to support both crops
+D. Harvest legumes before they mature to reduce shading
+E. Repeatedly intercropping the same legumes with the same cereals season after season
+
+Your response must follow this format exactly:
+
+Correct answer: [OPTION(S)]
+
+Rationale: [Not longer than 10 sentences]","Correct answer: [B]  
+
+Rationale: Intercropping legumes with cereals requires careful planning to ensure mutual benefits. Option B is correct because selecting compatible crops (e.g., maize with beans), timely planting, proper spacing, and row rotation optimize light, water, and nutrient use while minimizing competition. Option A is incorrect as dense cereal planting can stunt legumes. Option C is unnecessary since legumes fix nitrogen naturally. Option D harms legume yield potential, and Option E risks soil nutrient depletion and pest buildup. Thus, B is the best practice.",B,"Intercropping enhances productivity when compatible crops are selected, as they will not compete but utilize resources adequately. However, take note of planting time, spacing, and weeding to ensure intercropping benefits both crops."
+4,"You provide smallholder farmers in Kenya with agricultural advice and information. For the following multiple choice question, please select the correct answer(s) from options A to E and provide a detailed rationale for your choice. There can be multiple correct answers.
+
+Question: Which is the best way to apply herbicide in my maize field? 
+
+Answer options:
+A. Apply herbicide at any stage of maize growth.
+B. Spray herbicide when weeds are mature for maximum effectiveness.
+C. Apply pre-emergence herbicide after planting and post-emergence herbicide when weeds are young.
+
+D. Increase herbicide concentration to kill all weeds in one application.
+E. Spraying herbicides during windy, rainy, or extremely hot conditions
+
+Your response must follow this format exactly:
+
+Correct answer: [OPTION(S)]
+
+Rationale: [Not longer than 10 sentences]","Correct answer: C  
+
+Rationale: Pre-emergence herbicides should be applied after planting but before weeds emerge to prevent weed growth, while post-emergence herbicides are most effective when weeds are young and actively growing (Option C). Applying herbicide at any growth stage (Option A) can harm maize plants, especially during sensitive stages like germination. Spraying when weeds are mature (Option B) reduces effectiveness as older weeds are harder to control. Increasing herbicide concentration (Option D) can damage crops and soil health. Spraying during windy, rainy, or hot conditions (Option E) leads to poor herbicide absorption and environmental contamination.",C,"Weed suppression before and after emergence of the maize is crucial to minimize competition with the main crop for nutrients, sunlight and space. This approach avoids over use of chemical herbicides that would be harmful to the environment."
+5,"You provide smallholder farmers in Kenya with agricultural advice and information. For the following multiple choice question, please select the correct answer(s) from options A to E and provide a detailed rationale for your choice. There can be multiple correct answers.
+
+Question: Which is the best practice for storing grain to mitigate against post-harvest losses?
+
+Answer options:
+A. Storing dry maize in airtight hermetic bags or well aerated sisal and on a pallet.
+B. Storing maize in plastic bags without checking the moisture content.
+C. Storing dry maize in well aerated bags and placing them on bare ground.
+D. Storing both old grains and new grains in the same bags
+E. Storing maize in ordinary bags that allow pest and moisture penetration to the grains.
+
+Your response must follow this format exactly:
+
+Correct answer: [OPTION(S)]
+
+Rationale: [Not longer than 10 sentences]","Correct answer: [A]
+
+Rationale: Storing dry maize in airtight hermetic bags or well-aerated sisal bags on a pallet (Option A) is the best practice because it prevents moisture buildup, deters pests, and reduces fungal growth. Hermetic bags create an oxygen-deprived environment that kills pests, while pallets prevent ground moisture from spoiling the grain. Options B, C, D, and E are incorrect because they either ignore moisture control (B, C), promote pest infestation (E), or mix old and new grains, which can spread contamination (D). Proper storage ensures minimal post-harvest losses.",A,"Post harvest losses in grain occur due to pests, mold, and moisture. Use airtight hermetic bags to prevent pest infestation to maintain high quality of grains stored. Well aerated sisal bags will allow proper air circulation thus preventing mold growth. Placing the bags on pallets prevents moisture absorption from the ground and reduces contamination from rodents."
+6,"You provide smallholder farmers in Kenya with agricultural advice and information. For the following multiple choice question, please select the correct answer(s) from options A to E and provide a detailed rationale for your choice. There can be multiple correct answers.
+
+Question: Which livestock breed is best for dairy production?
+
+Answer options:
+A. Ayrshire
+B. Sahiwal
+C. Friesian
+D. Red Maasai
+E. Jersey
+
+Your response must follow this format exactly:
+
+Correct answer: [OPTION(S)]
+
+Rationale: [Not longer than 10 sentences]","Correct answer: A, C, E
+
+Rationale: Ayrshire, Friesian, and Jersey breeds are renowned for high milk production and adaptability to various climates, making them ideal for dairy farming. Friesians are the most common due to their exceptional milk yield. Jerseys produce milk with high butterfat content, valuable for dairy products. Ayrshires are hardy and efficient grazers. Sahiwal and Red Maasai are primarily beef or dual-purpose breeds with lower milk yields, making them less suitable for specialized dairy production.","A, C, E","Best livestock breeds are bred for high milk yield, quality, and efficiency in feed conversion. These includes Friesian, Jersey and Ayrshire."
+7,"You provide smallholder farmers in Kenya with agricultural advice and information. For the following multiple choice question, please select the correct answer(s) from options A to E and provide a detailed rationale for your choice. There can be multiple correct answers.
+
+Question: Which livestock breed is best for beef production?
+
+Answer options:
+A. Jersey
+B. Sahiwal
+C. Boran
+D. Brahman
+E. Guernsey
+
+Your response must follow this format exactly:
+
+Correct answer: [OPTION(S)]
+
+Rationale: [Not longer than 10 sentences]","Correct answer: B, C, D  
+
+Rationale: Sahiwal, Boran, and Brahman are tropical beef cattle breeds well-suited for Kenya's climate. Sahiwal is dual-purpose (milk and beef) but has good beef qualities, while Boran and Brahman are specifically renowned for beef production due to their hardiness, heat tolerance, and efficient feed conversion. Jersey (A) and Guernsey (E) are dairy breeds, not ideal for beef.","B, C, D","Best livestock breeds for beef are bred for meat, faster maturity, and adaptability to harsh environments. These includes Boran, Sahiwal, and Brahman"
+8,"You provide smallholder farmers in Kenya with agricultural advice and information. For the following multiple choice question, please select the correct answer(s) from options A to E and provide a detailed rationale for your choice. There can be multiple correct answers.
+
+Question: What are the suitable crops for drought prone areas?
+
+Answer options:
+A. Maize and cabbage
+B. Sorghum and millet
+C. Rice and sugarcane
+D. Green grams and pigeon peas
+E. Wheat and bananas
+
+Your response must follow this format exactly:
+
+Correct answer: [OPTION(S)]
+
+Rationale: [Not longer than 10 sentences]","Correct answer: B, D  
+
+Rationale: Sorghum and millet (B) are drought-resistant cereals that thrive in arid conditions with minimal water. Green grams and pigeon peas (D) are legumes adapted to dry climates, requiring less water and improving soil fertility. Maize and cabbage (A), rice and sugarcane (C), and wheat and bananas (E) are water-intensive crops, making them unsuitable for drought-prone areas.","B, D","Best crops for drought prone areas are tolerant to water stress. Some crops that are suitable for such areas include Sorghum, millet, green grams and pigeon peas"
+9,"You provide smallholder farmers in Kenya with agricultural advice and information. For the following multiple choice question, please select the correct answer(s) from options A to E and provide a detailed rationale for your choice. There can be multiple correct answers.
+
+Question: \Which farming practices reduce soil erosion in slopy areas?
+
+Answer options:
+A. Monocropping
+B. Contour farming
+C. Excessive tillage
+D. Planting shallow-rooted crops
+E. Having bare ground
+
+Your response must follow this format exactly:
+
+Correct answer: [OPTION(S)]
+
+Rationale: [Not longer than 10 sentences]","Correct answer: B
+
+Rationale: Contour farming (B) reduces soil erosion by planting crops along the natural contours of the slope, slowing water runoff and allowing it to infiltrate the soil. Monocropping (A) and excessive tillage (C) degrade soil structure and increase erosion. Shallow-rooted crops (D) and bare ground (E) fail to anchor soil effectively, making them more susceptible to erosion. Thus, only contour farming is a sustainable practice for slopy areas.",B,Contour farming is the most effective practice for reducing soil erosion in sloped areas. It involves plowing and planting along the natural contours of the land rather than up and down the slope to reduce water runoff and soil erosion.
+10,"You provide smallholder farmers in Kenya with agricultural advice and information. For the following multiple choice question, please select the correct answer(s) from options A to E and provide a detailed rationale for your choice. There can be multiple correct answers.
+
+Question: What are the ways of controlling fall armyworm infestation?
+
+Answer options:
+A. Spray fungicide
+B. Remove attacked crops
+C. Spray FAW pesticides early or late in the day in the maize whorl
+D. Spraying with crude plant extracts
+E. Apply nitrogen-rich fertilizers to boost plant growth
+
+Your response must follow this format exactly:
+
+Correct answer: [OPTION(S)]
+
+Rationale: [Not longer than 10 sentences]","Correct answer: B, C, D
+
+Rationale:  
+- **B (Remove attacked crops)**: This helps reduce the spread of fall armyworm (FAW) by eliminating infested plants and larvae.  
+- **C (Spray FAW pesticides early or late in the day in the maize whorl)**: FAW is most active during cooler times of the day, and targeting the whorl (where larvae feed) improves effectiveness.  
+- **D (Spraying with crude plant extracts)**: Some plant extracts (e.g., neem or chili-garlic mixtures) have pesticidal properties and can deter FAW.  
+- **A (Spray fungicide)**: Incorrect, as fungicides target fungi, not insects like FAW.  
+- **E (Apply nitrogen-rich fertilizers)**: Incorrect, as excessive nitrogen can attract FAW and worsen infestations.",C,Fall armyworm (FAW) is a destructive pest that primarily attacks maize and other cereal crops. The most effective method to control FAW is to apply registered pesticides early in the morning or late in the evening when the larvae are actively feeding in the maize whorl. Applying in the whorl increases the contact of the pest with the insecticides.
+11,"You provide smallholder farmers in Kenya with agricultural advice and information. For the following multiple choice question, please select the correct answer(s) from options A to E and provide a detailed rationale for your choice. There can be multiple correct answers.
+
+Question: Which fertilizer application method is more effective for rainfed crops?
+
+Answer options:
+A. Broadcasting
+B. Fertigation
+C. Foliar application
+D. Banding around the crop
+E. Deep Placement in the soil
+
+Your response must follow this format exactly:
+
+Correct answer: [OPTION(S)]
+
+Rationale: [Not longer than 10 sentences]","Correct answer: A, D, E
+
+Rationale: For rainfed crops, broadcasting (A) is effective as it evenly distributes fertilizer across the field, suitable for crops with extensive root systems. Banding (D) places fertilizer near the plant roots, reducing waste and improving uptake, especially in low-rainfall areas. Deep placement (E) ensures nutrients are available in the root zone, minimizing leaching during heavy rains. Fertigation (B) and foliar application (C) are less practical for rainfed systems due to their reliance on irrigation or frequent water availability.",D,"The most effective fertilizer application method for rainfed crops is banding around the crop because it ensures nutrients are placed close to the root zone, reducing nutrient loss and improving uptake efficiency"
+12,"You provide smallholder farmers in Kenya with agricultural advice and information. For the following multiple choice question, please select the correct answer(s) from options A to E and provide a detailed rationale for your choice. There can be multiple correct answers.
+
+Question: Which fertilizer is suitable during top-dressing of maize?
+
+Answer options:
+A. DAP
+B. NPK
+C. CAN, UREA
+D. Organic fertilizer
+E. MOP
+
+Your response must follow this format exactly:
+
+Correct answer: [OPTION(S)]
+
+Rationale: [Not longer than 10 sentences]","Correct answer: C, D  
+
+Rationale: During top-dressing of maize, nitrogen-rich fertilizers like CAN (Calcium Ammonium Nitrate) or UREA are ideal to promote vegetative growth and grain formation. Organic fertilizers (D) also provide slow-release nutrients and improve soil health. DAP (A) is primarily used at planting for phosphorus, NPK (B) is a balanced fertilizer but not specifically optimized for top-dressing, and MOP (E) supplies potassium, which is less critical during top-dressing.",C,"During top dressing, maize requires fertilizers that are rich in nitrogen, which is essential for vegetative growth. CAN and UREA are the best choices for top-dressing maize. However, they should be applied properly to avoid losses through leaching and volatilization"
+13,"You provide smallholder farmers in Kenya with agricultural advice and information. For the following multiple choice question, please select the correct answer(s) from options A to E and provide a detailed rationale for your choice. There can be multiple correct answers.
+
+Question: Which disease should I look at during cold weather in poultry?
+
+Answer options:
+A. Newcastle disease
+B. Coccidiosis
+C. Aspergillosis
+D. Fowlpox
+E. Pneumonia and respiratory distress
+
+Your response must follow this format exactly:
+
+Correct answer: [OPTION(S)]
+
+Rationale: [Not longer than 10 sentences]","Correct answer: A, C, E
+
+Rationale: During cold weather, poultry are more susceptible to respiratory and fungal diseases due to stress and poor ventilation. Newcastle disease (A) is a viral respiratory illness that thrives in cold conditions. Aspergillosis (C) is a fungal infection caused by moldy feed or bedding, which is more common in damp, cold environments. Pneumonia and respiratory distress (E) can occur due to chilling or poor air quality in enclosed spaces. Coccidiosis (B) is a parasitic disease linked to wet litter but not specifically cold weather, and fowlpox (D) is a viral disease spread by mosquitoes, unrelated to temperature.","B, E","During cold weather, poultry is more vulnerable to respiratory and stress-related diseases. Pneumonia, coccidiosis, and respiratory distress are the most common health issues in cold conditions because low temperatures and high humidity weaken the birds' immune systems, increasing their susceptibility to infections."
+14,"You provide smallholder farmers in Kenya with agricultural advice and information. For the following multiple choice question, please select the correct answer(s) from options A to E and provide a detailed rationale for your choice. There can be multiple correct answers.
+
+Question: Which one is not a benefit of crop rotation?
+
+Answer options:
+A. Soil fertility improvement
+B. Break pest, disease and weed cycle
+C. Improve soil properties and rainwater penetration
+D. Leads to continuous use of the same nutrients
+E. Improved biodiversity
+
+Your response must follow this format exactly:
+
+Correct answer: [OPTION(S)]
+
+Rationale: [Not longer than 10 sentences]","Correct answer: D
+
+Rationale: Crop rotation involves growing different crops sequentially on the same land to improve soil health and reduce pest buildup. Options A, B, C, and E are all benefits of crop rotation: it enhances soil fertility by varying nutrient demands, breaks pest/disease cycles, improves soil structure and water infiltration, and promotes biodiversity. Option D is incorrect because crop rotation avoids continuous depletion of the same nutrients by alternating crops with different nutrient needs.",D,"Crop rotation does not lead to continuous use of the same nutrients. However, it prevents nutrient depletion through alternating crops with varying nutrient requirements thus creating soil fertility balance"
+15,"You provide smallholder farmers in Kenya with agricultural advice and information. For the following multiple choice question, please select the correct answer(s) from options A to E and provide a detailed rationale for your choice. There can be multiple correct answers.
+
+Question: Which dairy production system is suitable in high potential and densely populated areas?
+
+Answer options:
+A. Open grazing
+B.Intensive (stall feeding/zero grazing)
+C. Semi intensive
+D. Free-range grazing
+E. Nomadic pastoralism
+
+
+Your response must follow this format exactly:
+
+Correct answer: [OPTION(S)]
+
+Rationale: [Not longer than 10 sentences]","Correct answer: B, C  
+
+Rationale: In high-potential and densely populated areas, land is limited, making open grazing (A), free-range grazing (D), and nomadic pastoralism (E) impractical due to space constraints. Intensive (stall feeding/zero grazing) (B) is suitable as it maximizes milk production per unit area by confining cows and providing controlled feed. Semi-intensive (C) is also viable as it combines stall feeding with limited grazing, balancing productivity and land use efficiency. These systems align with the need for higher yields and efficient resource management in such regions.",B,"In high-potential and densely populated areas, land resource limited making intensive (stall feeding/zero grazing) the most suitable dairy production system because this system allows farmers to maximize milk production by confining cows in a well-managed space where they are provided with high-quality feed, water, and veterinary care. Unlike open grazing, free-range grazing, or nomadic pastoralism, which require large land areas."
