@@ -2,3 +2,8 @@ pandas
 python-dotenv
 litellm
 langfuse
+scikit-learn
+sentence-transformers
+evaluate
+rouge-score
+seaborn
